@@ -1,0 +1,994 @@
+,name,url,price
+0,Atalho Real,https://www.zomato.com/grande-lisboa/atalho-real-príncipe-real-lisboa/info,45
+1,Boa-Bao,https://www.zomato.com/boabao/info,48
+2,Nicolau Lisboa,https://www.zomato.com/grande-lisboa/nicolau-lisboa-baixa-lisboa/info,20
+3,Forno d'Oro,https://www.zomato.com/grande-lisboa/forno-doro-rato-lisboa/info,55
+4,Heim Cafe,https://www.zomato.com/grande-lisboa/heim-cafe-santos-lisboa/info,20
+5,Fauna & Flora,https://www.zomato.com/grande-lisboa/fauna-flora-madragoa-lisboa/info,25
+6,Amélia Lisboa,https://www.zomato.com/grande-lisboa/amélia-lisboa-campo-de-ourique-lisboa/info,20
+7,Butchers,https://www.zomato.com/grande-lisboa/butchers-parque-das-nações-lisboa/info,40
+8,Contrabando,https://www.zomato.com/grande-lisboa/contrabando-santos-lisboa/info,30
+9,Volver de Carne Y Alma,https://www.zomato.com/volver-de-carne-y-alma/info,100
+10,Zero Zero - Príncipe Real,https://www.zomato.com/grande-lisboa/zero-zero-príncipe-real-príncipe-real-lisboa/info,50
+11,Choupana Caffé,https://www.zomato.com/grande-lisboa/choupana-caffé-saldanha-lisboa/info,10
+12,Ground Burger,https://www.zomato.com/grande-lisboa/ground-burger-praça-de-espanha-lisboa/info,40
+13,Soão - Taberna Asiática,https://www.zomato.com/grande-lisboa/soão-taberna-asiática-alvalade-lisboa/info,60
+14,Páteo - Bairro do Avillez,https://www.zomato.com/grande-lisboa/páteo-bairro-do-avillez-chiado-lisboa/info,50
+15,Polpetta - Almondegaria Artesanal,https://www.zomato.com/grande-lisboa/polpetta-almondegaria-artesanal-arroios-lisboa/info,25
+16,Casanova,https://www.zomato.com/grande-lisboa/casanova-santa-apolónia-lisboa/info,30
+17,Frankie Hot Dogs,https://www.zomato.com/grande-lisboa/frankie-hot-dogs-campo-grande-lisboa/info,14
+18,Sala de Corte,https://www.zomato.com/SalaDeCorte/info,60
+19,O Talho,https://www.zomato.com/otalho/info,60
+20,"Madame Petisca Restaurante, Bar e Terraço",https://www.zomato.com/grande-lisboa/madame-petisca-restaurante-bar-e-terraço-bica-lisboa/info,35
+21,Lost In,https://www.zomato.com/grande-lisboa/lost-in-príncipe-real-lisboa/info,50
+22,Psi,https://www.zomato.com/grande-lisboa/psi-pena-lisboa/info,30
+23,Ao 26 Vegan Food Project,https://www.zomato.com/grande-lisboa/ao-26-vegan-food-project-chiado-lisboa/info,40
+24,Come Prima,https://www.zomato.com/grande-lisboa/come-prima-lapa-estrela-lisboa/info,60
+25,TOPO,https://www.zomato.com/grande-lisboa/topo-mouraria-lisboa/info,45
+26,Nómada Avenidas,https://www.zomato.com/grande-lisboa/nómada-avenidas-campo-pequeno-lisboa/info,70
+27,Las Ficheras,https://www.zomato.com/grande-lisboa/las-ficheras-cais-do-sodré-lisboa/info,40
+28,SOI,https://www.zomato.com/grande-lisboa/soi-cais-do-sodré-lisboa/info,45
+29,Adega das Gravatas,https://www.zomato.com/grande-lisboa/adega-das-gravatas-carnide/info,40
+30,JNcQUOI Avenida,https://www.zomato.com/grande-lisboa/jncquoi-avenida-avenida-da-liberdade-lisboa/info,85
+31,The Old House,https://www.zomato.com/grande-lisboa/the-old-house-parque-das-nações-lisboa/info,60
+32,Empanaderia El Pibe,https://www.zomato.com/grande-lisboa/empanaderia-el-pibe-pena-lisboa/info,20
+33,Darwin's,https://www.zomato.com/grande-lisboa/darwins-belém-lisboa/info,50
+34,Ramiro,https://www.zomato.com/grande-lisboa/ramiro-mouraria-lisboa/info,60
+35,Zenith Brunch & Cocktails,https://www.zomato.com/grande-lisboa/zenith-brunch-cocktails-pena-lisboa/info,25
+36,Casa Nepalesa,https://www.zomato.com/grande-lisboa/casa-nepalesa-praça-de-espanha-lisboa/info,50
+37,Carvoaria Jacto,https://www.zomato.com/grande-lisboa/carvoaria-jacto-anjos-lisboa/info,30
+38,Ajitama Ramen Bistro,https://www.zomato.com/grande-lisboa/ajitama-ramen-bistro-1-marquês-de-pombal-lisboa/info,40
+39,Hygge Kaffe,https://www.zomato.com/grande-lisboa/hygge-kaffe-saldanha-lisboa/info,20
+40,Italy - Lisbona Caffé,https://www.zomato.com/grande-lisboa/italy-lisbona-caffé-saldanha-lisboa/info,35
+41,Chutnify - Príncipe Real,https://www.zomato.com/grande-lisboa/chutnify-príncipe-real-príncipe-real-lisboa/info,45
+42,Guilty by Olivier,https://www.zomato.com/guiltybyolivier/info,60
+43,Segundo Muelle,https://www.zomato.com/grande-lisboa/segundo-muelle-cais-do-sodré-lisboa/info,50
+44,Popolo - Pizza & Burger,https://www.zomato.com/grande-lisboa/popolo-pizza-burger-santos-lisboa/info,25
+45,Jamie's Italian,https://www.zomato.com/grande-lisboa/jamies-italian-príncipe-real-lisboa/info,40
+46,Go Juu,https://www.zomato.com/grande-lisboa/go-juu-praça-de-espanha-lisboa/info,50
+47,K.O.B by Olivier,https://www.zomato.com/grande-lisboa/k-o-b-by-olivier-avenida-da-liberdade-lisboa/info,80
+48,Le Chat - Food & Cocktail,https://www.zomato.com/grande-lisboa/le-chat-food-cocktail-santos-lisboa/info,38
+49,Osteria,https://www.zomato.com/grande-lisboa/osteria-madragoa-lisboa/info,35
+50,Miss Jappa,https://www.zomato.com/grande-lisboa/miss-jappa-príncipe-real-lisboa/info,40
+51,The Green Affair - Saldanha,https://www.zomato.com/grande-lisboa/the-green-affair-saldanha-saldanha-lisboa/info,30
+52,À Parte,https://www.zomato.com/grande-lisboa/à-parte-saldanha-lisboa/info,45
+53,Pasta Non Basta,https://www.zomato.com/grande-lisboa/pasta-non-basta-praça-de-espanha-lisboa/info,35
+54,A Cevicheria,https://www.zomato.com/acevicheria/info,60
+55,Leitaria Lisboa,https://www.zomato.com/grande-lisboa/leitaria-lisboa-rato-lisboa/info,8
+56,Taberna Sal Grosso,https://www.zomato.com/grande-lisboa/taberna-sal-grosso-santa-apolónia-lisboa/info,45
+57,La Trattoria,https://www.zomato.com/grande-lisboa/la-trattoria-rato-lisboa/info,40
+58,Cartel 36,https://www.zomato.com/grande-lisboa/cartel-36-parque-das-nações-lisboa/info,50
+59,Solar dos Presuntos,https://www.zomato.com/grande-lisboa/solar-dos-presuntos-avenida-da-liberdade-lisboa/info,70
+60,Pop Cereal Café,https://www.zomato.com/popcerealcafe/info,8
+61,Cantinho do Avillez,https://www.zomato.com/cantinhodoavillez/info,80
+62,C.O.W - Beef & Cocktails,https://www.zomato.com/grande-lisboa/c-o-w-beef-cocktails-santos-lisboa/info,40
+63,Dom Queijo,https://www.zomato.com/grande-lisboa/dom-queijo-alvalade-lisboa/info,50
+64,By The Wine,https://www.zomato.com/grande-lisboa/by-the-wine-chiado-lisboa/info,40
+65,La Paparrucha,https://www.zomato.com/grande-lisboa/la-paparrucha-príncipe-real-lisboa/info,80
+66,Brick,https://www.zomato.com/grande-lisboa/brick-1-anjos-lisboa/info,16
+67,NATÁBUA,https://www.zomato.com/grande-lisboa/natábua-alvalade-lisboa/info,20
+68,Panda Cantina,https://www.zomato.com/grande-lisboa/panda-cantina-baixa-lisboa/info,25
+69,Paço de Carnide,https://www.zomato.com/grande-lisboa/paço-de-carnide-carnide-lisboa/info,30
+70,Este Oeste,https://www.zomato.com/grande-lisboa/este-oeste-belém-lisboa/info,50
+71,Noobai,https://www.zomato.com/grande-lisboa/noobai-bica-lisboa/info,34
+72,Memoria,https://www.zomato.com/grande-lisboa/memoria-campo-de-ourique-lisboa/info,35
+73,Orteá - Vegan Collective,https://www.zomato.com/grande-lisboa/orteá-vegan-collective-cais-do-sodré-lisboa/info,30
+74,Kin,https://www.zomato.com/grande-lisboa/kin-mouraria-lisboa/info,40
+75,Pho-Pu,https://www.zomato.com/grande-lisboa/pho-pu-mouraria-lisboa/info,20
+76,UDON,https://www.zomato.com/grande-lisboa/udon-saldanha-lisboa/info,30
+77,Fábrica dos Sabores,https://www.zomato.com/grande-lisboa/fábrica-dos-sabores-saldanha-lisboa/info,24
+78,Aquele Lugar Que Não Existe,https://www.zomato.com/grande-lisboa/aquele-lugar-que-não-existe-marvila-lisboa/info,25
+79,Pharmacia Felicidade,https://www.zomato.com/grande-lisboa/pharmacia-felicidade-bica-lisboa/info,45
+80,Mesa do Bairro,https://www.zomato.com/grande-lisboa/mesa-do-bairro-areeiro-lisboa/info,40
+81,Pizzaria Luzzo,https://www.zomato.com/grande-lisboa/pizzaria-luzzo-avenida-da-liberdade-lisboa/info,35
+82,Seen,https://www.zomato.com/grande-lisboa/seen-avenida-da-liberdade-lisboa/info,100
+83,Sushi Factory,https://www.zomato.com/grande-lisboa/sushi-factory-alcântara-lisboa/info,40
+84,Frutaria Café,https://www.zomato.com/grande-lisboa/frutaria-café-baixa-lisboa/info,20
+85,Hikidashi - Taberna Japonesa,https://www.zomato.com/grande-lisboa/hikidashi-taberna-japonesa-campo-de-ourique-lisboa/info,80
+86,O Cantinho do Aziz,https://www.zomato.com/grande-lisboa/o-cantinho-do-aziz-mouraria-lisboa/info,25
+87,Bistro 100 Maneiras,https://www.zomato.com/grande-lisboa/bistro-100-maneiras-chiado-lisboa/info,100
+88,Tasquinha do Lagarto,https://www.zomato.com/grande-lisboa/tasquinha-do-lagarto-campolide-lisboa/info,25
+89,Mex Factory,https://www.zomato.com/grande-lisboa/mex-factory-alcântara-lisboa/info,30
+90,The Fifties American Diner,https://www.zomato.com/grande-lisboa/the-fifties-american-diner-parque-das-nações-lisboa/info,30
+91,The Decadente,https://www.zomato.com/grande-lisboa/the-decadente-bairro-alto-lisboa/info,50
+92,Ferroviário,https://www.zomato.com/grande-lisboa/ferroviário-1-santa-apolónia-lisboa/info,50
+93,The Club Steakhouse,https://www.zomato.com/grande-lisboa/the-club-steakhouse-parque-das-nações-lisboa/info,50
+94,Taberna A Preciosa - Petiscos,https://www.zomato.com/grande-lisboa/taberna-a-preciosa-petiscos-lumiar-lisboa/info,40
+95,Kokoro Ramen & Sushi Bar,https://www.zomato.com/grande-lisboa/kokoro-ramen-sushi-bar-arroios-lisboa/info,20
+96,L'Éclair,https://www.zomato.com/grande-lisboa/léclair-saldanha-lisboa/info,15
+97,DownUnder by Justin Jennings,https://www.zomato.com/downunder/info,50
+98,Kaffeehaus,https://www.zomato.com/grande-lisboa/kaffeehaus-chiado-lisboa/info,30
+99,Al Garage,https://www.zomato.com/grande-lisboa/al-garage-marquês-de-pombal-lisboa/info,40
+100,Matateu,https://www.zomato.com/grande-lisboa/matateu-restelo-lisboa/info,30
+101,Suntory,https://www.zomato.com/grande-lisboa/suntory-campolide-lisboa/info,60
+102,Ohana by Naz,https://www.zomato.com/grande-lisboa/ohana-by-naz-parque-das-nações-lisboa/info,30
+103,Água pela Barba,https://www.zomato.com/grande-lisboa/água-pela-barba-bica-lisboa/info,40
+104,Mezze,https://www.zomato.com/grande-lisboa/mezze-arroios-lisboa/info,35
+105,Dote,https://www.zomato.com/grande-lisboa/dote-avenida-da-liberdade-lisboa/info,25
+106,Tease,https://www.zomato.com/grande-lisboa/tease-príncipe-real-lisboa/info,12
+107,Don Costini,https://www.zomato.com/grande-lisboa/don-costini-saldanha-lisboa/info,40
+108,Bonsai,https://www.zomato.com/grande-lisboa/bonsai-príncipe-real/info,50
+109,Treestory,https://www.zomato.com/grande-lisboa/treestory-pena-lisboa/info,50
+110,Dear Breakfast,https://www.zomato.com/grande-lisboa/dear-breakfast-são-bento-lisboa/info,15
+111,Os Tibetanos,https://www.zomato.com/grande-lisboa/os-tibetanos-avenida-da-liberdade-lisboa/info,40
+112,Sushi dos Sá Morais,https://www.zomato.com/grande-lisboa/sushi-dos-sá-morais-marquês-de-pombal-lisboa/info,40
+113,Peixola,https://www.zomato.com/grande-lisboa/peixola-chiado-lisboa/info,45
+114,Zaafran,https://www.zomato.com/grande-lisboa/zaafran-saldanha-lisboa/info,40
+115,Restaurante Marco,https://www.zomato.com/grande-lisboa/restaurante-marco-santos-lisboa/info,30
+116,Il Matriciano,https://www.zomato.com/grande-lisboa/il-matriciano-são-bento-lisboa/info,50
+117,To.B,https://www.zomato.com/grande-lisboa/to-b-chiado-lisboa/info,25
+118,Sacramento,https://www.zomato.com/grande-lisboa/sacramento-chiado-lisboa/info,50
+119,The George,https://www.zomato.com/grande-lisboa/the-george-baixa-lisboa/info,40
+120,Cais da Pedra,https://www.zomato.com/CaisDaPedra/info,50
+121,Taberna da Rua das Flores,https://www.zomato.com/grande-lisboa/taberna-da-rua-das-flores-chiado-lisboa/info,30
+122,Mercantina,https://www.zomato.com/grande-lisboa/mercantina-chiado-lisboa/info,40
+123,O Clube do Hambúrguer,https://www.zomato.com/grande-lisboa/o-clube-do-hambúrguer-parque-das-nações-lisboa/info,25
+124,Ela Canela,https://www.zomato.com/grande-lisboa/ela-canela-campo-de-ourique-lisboa/info,25
+125,Yohei Fusion Sushi,https://www.zomato.com/grande-lisboa/yohei-fusion-sushi-lumiar-lisboa/info,50
+126,Café de São Bento,https://www.zomato.com/grande-lisboa/café-de-são-bento-são-bento-lisboa/info,70
+127,Mini Bar,https://www.zomato.com/minibar/info,120
+128,SushiNow,https://www.zomato.com/grande-lisboa/sushinow-parque-das-nações-lisboa/info,45
+129,Casa Cabaças,https://www.zomato.com/grande-lisboa/casa-cabaças-bairro-alto-lisboa/info,25
+130,Honest Greens,https://www.zomato.com/grande-lisboa/honest-greens-parque-das-nações-lisboa/info,25
+131,Tasca Fit,https://www.zomato.com/grande-lisboa/tasca-fit-saldanha-lisboa/info,40
+132,Forneria,https://www.zomato.com/grande-lisboa/forneria-parque-das-nações-lisboa/info,30
+133,Delfina - Cantina Portuguesa,https://www.zomato.com/grande-lisboa/delfina-cantina-portuguesa-baixa-lisboa/info,40
+134,Cervejaria Sem Vergonha,https://www.zomato.com/grande-lisboa/cervejaria-sem-vergonha-rato-lisboa/info,45
+135,Sea Me - Peixaria Moderna,https://www.zomato.com/grande-lisboa/sea-me-peixaria-moderna-chiado-lisboa/info,70
+136,Hard Rock Cafe Lisboa,https://www.zomato.com/HardRockCafe-Lisboa/info,50
+137,El Cabron • Tacos y Tequilla,https://www.zomato.com/grande-lisboa/el-cabron-tacos-y-tequilla-santos-lisboa/info,35
+138,Chinês Clandestino,https://www.zomato.com/grande-lisboa/chinês-clandestino-mouraria-lisboa/info,16
+139,Bohemio da Ribeira,https://www.zomato.com/grande-lisboa/bohemio-da-ribeira-cais-do-sodré-lisboa/info,45
+140,La Boulangerie,https://www.zomato.com/grande-lisboa/la-boulangerie-lapa-estrela-lisboa/info,12
+141,Fenícios Castilho,https://www.zomato.com/grande-lisboa/fenícios-castilho-avenida-da-liberdade-lisboa/info,40
+142,Ghoroa Restaurante Indiano,https://www.zomato.com/grande-lisboa/ghoroa-restaurante-indiano-mouraria-lisboa/info,25
+143,Gelato Davvero,https://www.zomato.com/grande-lisboa/gelato-davvero-santos-lisboa/info,6
+144,Arigato - Campo Pequeno,https://www.zomato.com/grande-lisboa/arigato-campo-pequeno-campo-pequeno-lisboa/info,40
+145,Tasca Kome,https://www.zomato.com/grande-lisboa/tasca-kome-baixa-lisboa/info,60
+146,Olá Nepal,https://www.zomato.com/grande-lisboa/olá-nepal-1-marquês-de-pombal-lisboa/info,20
+147,Belcanto,https://www.zomato.com/belcanto/info,220
+148,Local Avenida - Your Healthy Kitchen,https://www.zomato.com/grande-lisboa/local-avenida-your-healthy-kitchen-marquês-de-pombal-lisboa/info,25
+149,Confraria LX - LX Boutique Hotel,https://www.zomato.com/grande-lisboa/confraria-lx-lx-boutique-hotel-cais-do-sodré-lisboa/info,50
+150,La Piadina,https://www.zomato.com/grande-lisboa/la-piadina-bairro-alto-lisboa/info,18
+151,Il Mercato,https://www.zomato.com/grande-lisboa/il-mercato-rato-lisboa/info,60
+152,Despensa N6,https://www.zomato.com/grande-lisboa/despensa-n6-campo-pequeno-lisboa/info,8
+153,Afuri - Ramen + Izakaya,https://www.zomato.com/grande-lisboa/afuri-ramen-izakaya-chiado-lisboa/info,45
+154,In Bocca al Lupo,https://www.zomato.com/grande-lisboa/in-bocca-al-lupo-príncipe-real-lisboa/info,45
+155,Brunch Café,https://www.zomato.com/grande-lisboa/brunch-café-baixa-lisboa/info,25
+156,Faz Figura,https://www.zomato.com/fazfigura/info,80
+157,The Food Temple,https://www.zomato.com/grande-lisboa/the-food-temple-mouraria-lisboa/info,30
+158,Up to Sushi - Picoas,https://www.zomato.com/grande-lisboa/up-to-sushi-picoas-saldanha-lisboa/info,40
+159,Pizzeria Lucca,https://www.zomato.com/grande-lisboa/pizzeria-lucca-alvalade-lisboa/info,32
+160,The Insólito Restaurante & Bar,https://www.zomato.com/grande-lisboa/the-insólito-restaurante-bar-bairro-alto-lisboa/info,75
+161,Sushisan,https://www.zomato.com/grande-lisboa/sushisan-saldanha-lisboa/info,45
+162,Trópico do Cais,https://www.zomato.com/grande-lisboa/trópico-do-cais-cais-do-sodré-lisboa/info,30
+163,La Brasserie de L'Entrecôte,https://www.zomato.com/grande-lisboa/la-brasserie-de-lentrecôte-chiado-lisboa/info,65
+164,Hamburgueria 21,https://www.zomato.com/grande-lisboa/hamburgueria-21-areeiro-lisboa/info,20
+165,Alma,https://www.zomato.com/grande-lisboa/alma-chiado-lisboa/info,100
+166,Edmundo,https://www.zomato.com/grande-lisboa/edmundo-benfica-lisboa/info,40
+167,RUA - Príncipe Real,https://www.zomato.com/grande-lisboa/rua-príncipe-real-príncipe-real-lisboa/info,30
+168,Basílio Lisboa,https://www.zomato.com/grande-lisboa/basílio-lisboa-sé-lisboa/info,20
+169,Aron Sushi,https://www.zomato.com/grande-lisboa/aron-sushi-praça-de-espanha-lisboa/info,70
+170,Bella Ciao,https://www.zomato.com/grande-lisboa/bella-ciao-baixa-lisboa/info,30
+171,Tappas Caffé,https://www.zomato.com/grande-lisboa/tappas-caffé-parque-das-nações-lisboa/info,25
+172,Tantura,https://www.zomato.com/grande-lisboa/tantura-bairro-alto-lisboa/info,30
+173,Cantina Indiana,https://www.zomato.com/grande-lisboa/cantina-indiana-telheiras-lisboa/info,20
+174,Avenida SushiCafé,https://www.zomato.com/grande-lisboa/avenida-sushicafé-avenida-da-liberdade-lisboa/info,70
+175,Sushi Lisboa,https://www.zomato.com/grande-lisboa/sushi-lisboa-parque-das-nações-lisboa/info,60
+176,Pois Café,https://www.zomato.com/grande-lisboa/pois-café-sé-lisboa/info,25
+177,Village Food,https://www.zomato.com/buzzlisboeta/info,30
+178,Água no Bico,https://www.zomato.com/grande-lisboa/água-no-bico-são-bento-lisboa/info,35
+179,Nosolo Itália Belém,https://www.zomato.com/nosoloitaliabelem/info,40
+180,A Praça,https://www.zomato.com/grande-lisboa/a-praça-alcântara-lisboa/info,45
+181,Boutik,https://www.zomato.com/grande-lisboa/boutik-são-bento-lisboa/info,18
+182,Tapisco,https://www.zomato.com/grande-lisboa/tapisco-príncipe-real-lisboa/info,50
+183,La Finestra,https://www.zomato.com/grande-lisboa/la-finestra-praça-de-espanha-lisboa/info,38
+184,A Minha Cozinha,https://www.zomato.com/grande-lisboa/a-minha-cozinha-campo-de-ourique-lisboa/info,20
+185,Guacamole - GMG,https://www.zomato.com/grande-lisboa/guacamole-gmg-cais-do-sodré-lisboa/info,25
+186,Penta Café,https://www.zomato.com/grande-lisboa/penta-café-baixa-lisboa/info,20
+187,Pão de Canela,https://www.zomato.com/grande-lisboa/pão-de-canela-príncipe-real-lisboa/info,20
+188,O Zé da Mouraria 2,https://www.zomato.com/grande-lisboa/o-zé-da-mouraria-2-pena-lisboa/info,40
+189,Sushi Time,https://www.zomato.com/grande-lisboa/sushi-time-parque-das-nações-lisboa/info,60
+190,Ararate,https://www.zomato.com/grande-lisboa/ararate-praça-de-espanha-lisboa/info,65
+191,Royale Café,https://www.zomato.com/grande-lisboa/royale-café-chiado-lisboa/info,40
+192,Pastelaria Restelo - Careca,https://www.zomato.com/grande-lisboa/pastelaria-restelo-careca-restelo-lisboa/info,12
+193,Restaurante Chapitô à Mesa,https://www.zomato.com/chapitoamesa/info,55
+194,Café com Calma,https://www.zomato.com/grande-lisboa/café-com-calma-marvila-lisboa/info,6
+195,Infame,https://www.zomato.com/grande-lisboa/infame-intendente-lisboa/info,60
+196,Grande Palácio Hong Kong,https://www.zomato.com/grande-lisboa/grande-palácio-hong-kong-arroios-lisboa/info,35
+197,Entra,https://www.zomato.com/grande-lisboa/entra-marvila-lisboa/info,50
+198,Bellalisa Valmor,https://www.zomato.com/grande-lisboa/bellalisa-valmor-praça-de-espanha-lisboa/info,40
+199,Barrosã,https://www.zomato.com/grande-lisboa/barrosã-alvalade-lisboa/info,35
+200,Boteco Dona Beija,https://www.zomato.com/grande-lisboa/boteco-dona-beija-marquês-de-pombal-lisboa/info,35
+201,Pigmeu,https://www.zomato.com/grande-lisboa/pigmeu-campo-de-ourique-lisboa/info,40
+202,Chão de Pedra,https://www.zomato.com/chaodepedra/info,25
+203,O Prego da Peixaria,https://www.zomato.com/grande-lisboa/o-prego-da-peixaria-saldanha-lisboa/info,25
+204,JNcQUOI ASIA,https://www.zomato.com/grande-lisboa/jncquoi-asia-1-avenida-da-liberdade-lisboa/info,100
+205,Crispy Mafya,https://www.zomato.com/grande-lisboa/crispy-mafya-1-príncipe-real-lisboa/info,40
+206,O Tachadas,https://www.zomato.com/grande-lisboa/o-tachadas-madragoa-lisboa/info,25
+207,Café Buenos Aires,https://www.zomato.com/grande-lisboa/café-buenos-aires-chiado-lisboa/info,50
+208,Martínez by Lx Grill,https://www.zomato.com/grande-lisboa/martínez-by-lx-grill-areeiro-lisboa/info,25
+209,Tacho do Pescador,https://www.zomato.com/grande-lisboa/tacho-do-pescador-parque-das-nações-lisboa/info,35
+210,Santa Clara dos Cogumelos,https://www.zomato.com/grande-lisboa/santa-clara-dos-cogumelos-graça-lisboa/info,60
+211,Pizzaria Lisboa,https://www.zomato.com/pizzarialisboa/info,50
+212,Seagull Method,https://www.zomato.com/grande-lisboa/seagull-method-príncipe-real-lisboa/info,25
+213,Loco,https://www.zomato.com/grande-lisboa/loco-lapa-estrela-lisboa/info,340
+214,Taberna Moderna,https://www.zomato.com/grande-lisboa/taberna-moderna-sé-lisboa/info,60
+215,O Nobre by Justa Nobre,https://www.zomato.com/grande-lisboa/o-nobre-by-justa-nobre-campo-pequeno-lisboa/info,75
+216,Padaria do Povo,https://www.zomato.com/grande-lisboa/padaria-do-povo-campo-de-ourique-lisboa/info,25
+217,A-100 Best Burgers In Town,https://www.zomato.com/grande-lisboa/a-100-best-burgers-in-town-campo-grande-lisboa/info,25
+218,Refeitório Associativo Hare Krishna,https://www.zomato.com/grande-lisboa/refeitório-associativo-hare-krishna-saldanha-lisboa/info,16
+219,My Mother's Daughters,https://www.zomato.com/grande-lisboa/my-mothers-daughters-praça-de-espanha-lisboa/info,16
+220,Lucimar,https://www.zomato.com/grande-lisboa/lucimar-entrecampos-lisboa/info,25
+221,Tasca da Esquina,https://www.zomato.com/grande-lisboa/tasca-da-esquina-lapa-estrela-lisboa/info,50
+222,The Mill,https://www.zomato.com/grande-lisboa/the-mill-são-bento-lisboa/info,30
+223,Nood,https://www.zomato.com/grande-lisboa/nood-chiado-lisboa/info,30
+224,Fábrica Coffee Roasters,https://www.zomato.com/grande-lisboa/fábrica-coffee-roasters-avenida-da-liberdade-lisboa/info,12
+225,Ginos,https://www.zomato.com/grande-lisboa/ginos-parque-das-nações-lisboa/info,40
+226,Rice Me,https://www.zomato.com/grande-lisboa/rice-me-praça-de-espanha-lisboa/info,30
+227,Carvoeiro de Palma,https://www.zomato.com/grande-lisboa/carvoeiro-de-palma-são-domingos-de-benfica-lisboa/info,40
+228,Koko,https://www.zomato.com/grande-lisboa/koko-parque-das-nações-lisboa/info,50
+229,Sr. Lisboa - Cozinha,https://www.zomato.com/grande-lisboa/sr-lisboa-cozinha-avenida-da-liberdade-lisboa/info,30
+230,Salsa e Coentros,https://www.zomato.com/grande-lisboa/salsa-e-coentros-alvalade-lisboa/info,40
+231,Trobadores,https://www.zomato.com/grande-lisboa/trobadores-baixa-lisboa/info,30
+232,The Great American Disaster,https://www.zomato.com/grande-lisboa/the-great-american-disaster-marquês-de-pombal-lisboa/info,25
+233,Pão Pão Queijo Queijo,https://www.zomato.com/grande-lisboa/pão-pão-queijo-queijo-belém-lisboa/info,20
+234,Gin Lovers Bar & Restaurant,https://www.zomato.com/grande-lisboa/gin-lovers-bar-restaurant-príncipe-real-lisboa/info,40
+235,Aromas e Temperos,https://www.zomato.com/grande-lisboa/aromas-e-temperos-arroios-lisboa/info,35
+236,Selllva,https://www.zomato.com/grande-lisboa/selllva-marquês-de-pombal-lisboa/info,40
+237,Edo Sushi,https://www.zomato.com/grande-lisboa/edo-sushi-parque-das-nações-lisboa/info,50
+238,À Margem,https://www.zomato.com/grande-lisboa/à-margem-belém-lisboa/info,30
+239,Valdo Gatti,https://www.zomato.com/grande-lisboa/valdo-gatti-bairro-alto-lisboa/info,30
+240,Casinha Boutique Café,https://www.zomato.com/grande-lisboa/casinha-boutique-café-chiado-lisboa/info,12
+241,Casanostra,https://www.zomato.com/grande-lisboa/casanostra-bairro-alto-lisboa/info,50
+242,Pastéis de Belém,https://www.zomato.com/grande-lisboa/pastéis-de-belém-belém-lisboa/info,15
+243,Sumaya,https://www.zomato.com/grande-lisboa/sumaya-príncipe-real-lisboa/info,45
+244,Coyo Taco,https://www.zomato.com/grande-lisboa/coyo-taco-príncipe-real-lisboa/info,40
+245,1300 Taberna,https://www.zomato.com/grande-lisboa/1300-taberna-alcântara-lisboa/info,50
+246,Hamburgueria do Bairro,https://www.zomato.com/grande-lisboa/hamburgueria-do-bairro-parque-das-nações-lisboa/info,16
+247,Entretanto Rooftop Bar - Hotel do Chiado,https://www.zomato.com/grande-lisboa/entretanto-rooftop-bar-hotel-do-chiado-chiado-lisboa/info,35
+248,Caxemira,https://www.zomato.com/grande-lisboa/caxemira-baixa-lisboa/info,30
+249,Petisco Saloio,https://www.zomato.com/grande-lisboa/petisco-saloio-campo-pequeno-lisboa/info,25
+250,Vicente by Carnalentejana,https://www.zomato.com/grande-lisboa/vicente-by-carnalentejana-chiado/info,40
+251,Siam Square,https://www.zomato.com/grande-lisboa/siam-square-saldanha-lisboa/info,35
+252,1001 Nights Restaurante Iraniano,https://www.zomato.com/grande-lisboa/1001-nights-restaurante-iraniano-campo-pequeno-lisboa/info,20
+253,B' Perfect - Praça de Londres,https://www.zomato.com/grande-lisboa/b-perfect-praça-de-londres-areeiro-lisboa/info,25
+254,Espaço Espelho d'Água,https://www.zomato.com/espacoespelhodeagua/info,45
+255,Copenhagen Coffee Lab.,https://www.zomato.com/grande-lisboa/copenhagen-coffee-lab-príncipe-real-lisboa/info,10
+256,Café Janis,https://www.zomato.com/grande-lisboa/café-janis-cais-do-sodré-lisboa/info,25
+257,Beni's Gelato & Friends,https://www.zomato.com/grande-lisboa/benis-gelato-friends-arroios-lisboa/info,8
+258,39 degraus - Cinemateca Portuguesa,https://www.zomato.com/grande-lisboa/39-degraus-cinemateca-portuguesa-avenida-da-liberdade-lisboa/info,25
+259,Casa do Alentejo,https://www.zomato.com/grande-lisboa/casa-do-alentejo-rossio-lisboa/info,40
+260,Happy Noodles,https://www.zomato.com/grande-lisboa/happy-noodles-entrecampos-lisboa/info,20
+261,Organi Chiado,https://www.zomato.com/grande-lisboa/organi-chiado-chiado-lisboa/info,30
+262,Landeau,https://www.zomato.com/grande-lisboa/landeau-alcântara-lisboa/info,12
+263,Pica na Praça,https://www.zomato.com/grande-lisboa/pica-na-praça-benfica-lisboa/info,25
+264,Ofício Lisboa,https://www.zomato.com/grande-lisboa/ofício-lisboa-chiado-lisboa/info,50
+265,Burrata - Pizzaria Artesanal,https://www.zomato.com/grande-lisboa/burrata-pizzaria-artesanal-benfica-lisboa/info,20
+266,Eleven,https://www.zomato.com/grande-lisboa/eleven-marquês-de-pombal-lisboa/info,150
+267,Prado,https://www.zomato.com/pradorestaurante/info,60
+268,Everest Montanha,https://www.zomato.com/grande-lisboa/everest-montanha-1-alvalade-lisboa/info,25
+269,Último Porto,https://www.zomato.com/grande-lisboa/último-porto-santos-lisboa/info,30
+270,Via Graça,https://www.zomato.com/grande-lisboa/via-graça-1-graça-lisboa/info,80
+271,Manifest.Lisbon,https://www.zomato.com/grande-lisboa/manifest-lisbon-1-marquês-de-pombal-lisboa/info,30
+272,Sauvage,https://www.zomato.com/grande-lisboa/sauvage-campo-pequeno-lisboa/info,40
+273,madpizza,https://www.zomato.com/grande-lisboa/madpizza-saldanha-lisboa/info,25
+274,Honorato,https://www.zomato.com/HonoratoRio/info,25
+275,Sushima,https://www.zomato.com/grande-lisboa/sushima-chiado-lisboa/info,40
+276,Vasku's Grill,https://www.zomato.com/grande-lisboa/vaskus-grill-arroios-lisboa/info,55
+277,A Gina,https://www.zomato.com/grande-lisboa/a-gina-avenida-da-liberdade-lisboa/info,40
+278,Jesus é Goês,https://www.zomato.com/grande-lisboa/jesus-é-goês-avenida-da-liberdade-lisboa/info,50
+279,100 Montaditos,https://www.zomato.com/grande-lisboa/100-montaditos-saldanha-lisboa/info,20
+280,La Tagliatella - Parque das Nações,https://www.zomato.com/grande-lisboa/la-tagliatella-parque-das-nações-parque-das-nações-lisboa/info,30
+281,Brut By Natábua,https://www.zomato.com/grande-lisboa/brut-by-natábua-parque-das-nações-lisboa/info,40
+282,OKAH Restaurant & Rooftop,https://www.zomato.com/grande-lisboa/okah-restaurant-rooftop-santos-lisboa/info,60
+283,Chirashi,https://www.zomato.com/grande-lisboa/chirashi-telheiras-lisboa/info,25
+284,Sala Thai,https://www.zomato.com/grande-lisboa/sala-thai-alvalade-lisboa/info,40
+285,Cotidiano Lisboa,https://www.zomato.com/grande-lisboa/cotidiano-lisboa-baixa-lisboa/info,20
+286,Zambeze,https://www.zomato.com/grande-lisboa/zambeze-mouraria-lisboa/info,40
+287,Tico Tico,https://www.zomato.com/grande-lisboa/tico-tico-alvalade-lisboa/info,50
+288,Café do Rio - Hamburgueria Gourmet,https://www.zomato.com/grande-lisboa/café-do-rio-hamburgueria-gourmet-baixa-lisboa/info,40
+289,Raffi’s Bagels Estefania,https://www.zomato.com/grande-lisboa/raffis-bagels-estefania-saldanha-lisboa/info,15
+290,Mano a Mano,https://www.zomato.com/grande-lisboa/mano-a-mano-chiado-lisboa/info,40
+291,Santa Bica,https://www.zomato.com/grande-lisboa/santa-bica-bica-lisboa/info,40
+292,Capricciosa,https://www.zomato.com/grande-lisboa/capricciosa-parque-das-nações/info,30
+293,Dom Feijão,https://www.zomato.com/grande-lisboa/dom-feijão-alvalade-lisboa/info,32
+294,Bowls&Bar,https://www.zomato.com/grande-lisboa/bowls-bar-são-bento-lisboa/info,15
+295,Silk Club,https://www.zomato.com/grande-lisboa/silk-club-chiado-lisboa/info,80
+296,The Coffee Library,https://www.zomato.com/grande-lisboa/the-coffee-library-areeiro-lisboa/info,8
+297,Versailles,https://www.zomato.com/grande-lisboa/versailles-saldanha-lisboa/info,10
+298,Scoop n' Dough,https://www.zomato.com/grande-lisboa/scoop-n-dough-1-rossio-lisboa/info,8
+299,LuZBoa,https://www.zomato.com/grande-lisboa/luzboa-praça-de-espanha-lisboa/info,30
+300,Han Table Barbecue,https://www.zomato.com/grande-lisboa/han-table-barbecue-pena-lisboa/info,30
+301,Café Império,https://www.zomato.com/grande-lisboa/café-império-arroios-lisboa/info,30
+302,Izanagi,https://www.zomato.com/grande-lisboa/izanagi-alcântara-lisboa/info,60
+303,Himchuli,https://www.zomato.com/grande-lisboa/himchuli-alcântara-lisboa/info,35
+304,Natraj,https://www.zomato.com/grande-lisboa/natraj-campo-de-ourique-lisboa/info,30
+305,Linha d'Água,https://www.zomato.com/grande-lisboa/linha-dágua-marquês-de-pombal-lisboa/info,12
+306,Erva Restaurante & Bar,https://www.zomato.com/grande-lisboa/erva-restaurante-bar-campolide-lisboa/info,68
+307,HeyMate,https://www.zomato.com/grande-lisboa/heymate-alvalade-lisboa/info,10
+308,Samurai,https://www.zomato.com/grande-lisboa/samurai-campo-pequeno-lisboa/info,35
+309,FIVE,https://www.zomato.com/grande-lisboa/five-areeiro-lisboa/info,20
+310,Gelados Conchanata,https://www.zomato.com/grande-lisboa/gelados-conchanata-alvalade-lisboa/info,10
+311,Tasca Zé dos Cornos,https://www.zomato.com/grande-lisboa/tasca-zé-dos-cornos-mouraria-lisboa/info,25
+312,Casa Al Parma,https://www.zomato.com/grande-lisboa/casa-al-parma-alvalade-lisboa/info,30
+313,ZAZAH,https://www.zomato.com/grande-lisboa/zazah-príncipe-real-lisboa/info,50
+314,Passage to India,https://www.zomato.com/grande-lisboa/passage-to-india-saldanha-lisboa/info,30
+315,Solar dos Nunes,https://www.zomato.com/grande-lisboa/solar-dos-nunes-alcântara-lisboa/info,50
+316,A Muralha - Tasca Típica,https://www.zomato.com/grande-lisboa/a-muralha-tasca-típica-alfama-lisboa/info,25
+317,Santini,https://www.zomato.com/grande-lisboa/santini-rossio-lisboa/info,10
+318,Rubro,https://www.zomato.com/grande-lisboa/rubro-campo-pequeno-lisboa/info,40
+319,Jardim das Cerejas,https://www.zomato.com/grande-lisboa/jardim-das-cerejas-chiado-lisboa/info,19
+320,Maria Limão,https://www.zomato.com/grande-lisboa/maria-limão-graça-lisboa/info,15
+321,O Magano,https://www.zomato.com/grande-lisboa/o-magano-campo-de-ourique-lisboa/info,50
+322,Ilha da Madeira,https://www.zomato.com/oilhadamadeira/info,30
+323,Kanazawa,https://www.zomato.com/grande-lisboa/kanazawa-restelo/info,180
+324,Season,https://www.zomato.com/grande-lisboa/season-são-bento-lisboa/info,50
+325,Pap’Açôrda,https://www.zomato.com/grande-lisboa/papaçôrda-1-cais-do-sodré-lisboa/info,50
+326,Os Courenses,https://www.zomato.com/grande-lisboa/os-courenses-alvalade-lisboa/info,40
+327,La Puttana,https://www.zomato.com/grande-lisboa/la-puttana-cais-do-sodré-lisboa/info,35
+328,Cantina das Freiras,https://www.zomato.com/grande-lisboa/cantina-das-freiras-chiado-lisboa/info,16
+329,Cervejaria Pinóquio,https://www.zomato.com/grande-lisboa/cervejaria-pinóquio-baixa-lisboa/info,50
+330,Macau Dim Sum,https://www.zomato.com/grande-lisboa/macau-dim-sum-amoreiras/info,30
+331,Taberna Tosca,https://www.zomato.com/tabernatosca/info,50
+332,Honorato Sushi,https://www.zomato.com/grande-lisboa/honorato-sushi-restelo/info,40
+333,La Focacceria Pugliese,https://www.zomato.com/grande-lisboa/la-focacceria-pugliese-campo-de-ourique-lisboa/info,30
+334,Rui dos Pregos - Docas,https://www.zomato.com/grande-lisboa/rui-dos-pregos-docas-alcântara-lisboa/info,25
+335,Maritaca,https://www.zomato.com/grande-lisboa/maritaca-lapa-estrela-lisboa/info,25
+336,People,https://www.zomato.com/grande-lisboa/people-campo-pequeno-lisboa/info,50
+337,Bio,https://www.zomato.com/grande-lisboa/bio-arroios-lisboa/info,20
+338,Charlie Bistrô,https://www.zomato.com/grande-lisboa/charlie-bistrô-avenida-da-liberdade-lisboa/info,20
+339,Mr. Lu,https://www.zomato.com/grande-lisboa/mr-lu-arroios-lisboa/info,30
+340,Chef Nino,https://www.zomato.com/grande-lisboa/chef-nino-alcântara-lisboa/info,17
+341,Gambrinus,https://www.zomato.com/grande-lisboa/gambrinus-rossio-lisboa/info,110
+342,Messe Pizzaria,https://www.zomato.com/grande-lisboa/messe-pizzaria-alcântara-lisboa/info,40
+343,Refeitório do Senhor Abel,https://www.zomato.com/grande-lisboa/refeitório-do-senhor-abel-marvila-lisboa/info,35
+344,Azia - Asian Cuisine,https://www.zomato.com/grande-lisboa/azia-asian-cuisine-cais-do-sodré-lisboa/info,30
+345,David da Buraca,https://www.zomato.com/grande-lisboa/david-da-buraca-benfica-lisboa/info,30
+346,Cave 23,https://www.zomato.com/grande-lisboa/cave-23-pena-lisboa/info,100
+347,Estórias na Casa da Comida,https://www.zomato.com/grande-lisboa/estórias-na-casa-da-comida-rato-lisboa/info,50
+348,Koi Sushi,https://www.zomato.com/grande-lisboa/koi-sushi-saldanha-lisboa/info,40
+349,Fábrica Imperial,https://www.zomato.com/grande-lisboa/fábrica-imperial-marquês-de-pombal-lisboa/info,20
+350,Malaca Too,https://www.zomato.com/grande-lisboa/malaca-too-alcântara-lisboa/info,40
+351,Kasa Mia,https://www.zomato.com/grande-lisboa/kasa-mia-1-telheiras-lisboa/info,30
+352,Comoba,https://www.zomato.com/grande-lisboa/comoba-cais-do-sodré-lisboa/info,18
+353,"Hello, Kristof",https://www.zomato.com/grande-lisboa/hello-kristof-são-bento-lisboa/info,15
+354,Galeto,https://www.zomato.com/grande-lisboa/galeto-saldanha-lisboa/info,30
+355,Cantina LX,https://www.zomato.com/grande-lisboa/cantina-lx-alcântara-lisboa/info,40
+356,100% Hamburgueria,https://www.zomato.com/grande-lisboa/100-hamburgueria-telheiras-lisboa/info,20
+357,Bowl,https://www.zomato.com/grande-lisboa/bowl-campo-de-ourique-lisboa/info,15
+358,Taberna Portuguesa,https://www.zomato.com/grande-lisboa/taberna-portuguesa-bica-lisboa/info,30
+359,Geographia,https://www.zomato.com/grande-lisboa/geographia-lapa-estrela-lisboa/info,50
+360,Pizpireto,https://www.zomato.com/grande-lisboa/pizpireto-marquês-de-pombal-lisboa/info,6
+361,Vestigius,https://www.zomato.com/grande-lisboa/vestigius-cais-do-sodré-lisboa/info,55
+362,QPicanha,https://www.zomato.com/grande-lisboa/qpicanha-telheiras-lisboa/info,40
+363,Associação Caboverdeana - Restaurante,https://www.zomato.com/grande-lisboa/associação-caboverdeana-restaurante-marquês-de-pombal-lisboa/info,25
+364,Mezzanine Creative Restaurant,https://www.zomato.com/grande-lisboa/mezzanine-creative-restaurante-cais-do-sodré-lisboa/info,40
+365,Manjerica,https://www.zomato.com/grande-lisboa/manjerica-mouraria-lisboa/info,20
+366,A Lanchonete,https://www.zomato.com/grande-lisboa/a-lanchonete-belém-lisboa/info,25
+367,Amorino,https://www.zomato.com/grande-lisboa/amorino-chiado-lisboa/info,12
+368,Tentações de Goa,https://www.zomato.com/grande-lisboa/tentações-de-goa-mouraria-lisboa/info,30
+369,Ori,https://www.zomato.com/grande-lisboa/ori-benfica-lisboa/info,20
+370,Petiscaria 5 Elementos,https://www.zomato.com/grande-lisboa/petiscaria-5-elementos-carnide-lisboa/info,30
+371,Il Giardinetto,https://www.zomato.com/grande-lisboa/il-giardinetto-saldanha-lisboa/info,25
+372,Izcalli Antojeria,https://www.zomato.com/grande-lisboa/izcalli-antojeria-alcântara-lisboa/info,70
+373,BouBou's,https://www.zomato.com/grande-lisboa/boubous-príncipe-real-lisboa/info,60
+374,Fábrica da Nata,https://www.zomato.com/grande-lisboa/fábrica-da-nata-rossio-lisboa/info,6
+375,Eight - The Health Lounge,https://www.zomato.com/grande-lisboa/eight-the-health-lounge-rossio-lisboa/info,20
+376,Alcântara 50,https://www.zomato.com/grande-lisboa/alcântara-50-alcântara-lisboa/info,30
+377,Toca do Raposo,https://www.zomato.com/grande-lisboa/toca-do-raposo-alvalade-lisboa/info,25
+378,MBH Hamburguesería,https://www.zomato.com/grande-lisboa/mbh-hamburguesería-alvalade-lisboa/info,35
+379,Avocado House Lisbon,https://www.zomato.com/grande-lisboa/avocado-house-lisbon-madragoa-lisboa/info,25
+380,TIME Tea & Coffee,https://www.zomato.com/grande-lisboa/time-tea-coffee-parque-das-nações-lisboa/info,6
+381,O Panças,https://www.zomato.com/grande-lisboa/o-panças-benfica-lisboa/info,30
+382,Mú - Gelato Italiano,https://www.zomato.com/gelatomulisboa/info,6
+383,Mabiche Pizza,https://www.zomato.com/grande-lisboa/mabiche-pizza-arroios-lisboa/info,20
+384,Aprazível,https://www.zomato.com/Aprazivel/info,45
+385,Adega da Tia Matilde,https://www.zomato.com/grande-lisboa/adega-da-tia-matilde-entrecampos-lisboa/info,50
+386,Wine Not?,https://www.zomato.com/grande-lisboa/wine-not-chiado-lisboa/info,25
+387,Soul Garden,https://www.zomato.com/grande-lisboa/soul-garden-campolide-lisboa/info,40
+388,Lebanese Corner,https://www.zomato.com/grande-lisboa/lebanese-corner-rato-lisboa/info,20
+389,Cultura do Hamburguer,https://www.zomato.com/grande-lisboa/cultura-do-hamburguer-bairro-alto-lisboa/info,20
+390,XL,https://www.zomato.com/grande-lisboa/xl-lapa-estrela-lisboa/info,65
+391,Fiammetta,https://www.zomato.com/grande-lisboa/fiammetta-campo-de-ourique-lisboa/info,30
+392,Estado D'Alma,https://www.zomato.com/grande-lisboa/estado-dalma-alcântara-lisboa/info,30
+393,Sam Croissants,https://www.zomato.com/grande-lisboa/sam-croissants-entrecampos-lisboa/info,12
+394,YokoHama - Sushi Bar,https://www.zomato.com/grande-lisboa/yokohama-sushi-bar-alvalade-lisboa/info,30
+395,Hayaci,https://www.zomato.com/grande-lisboa/hayaci-campolide-lisboa/info,26
+396,El Taco Chingón,https://www.zomato.com/grande-lisboa/el-taco-chingón-1-arroios-lisboa/info,25
+397,Level Eight,https://www.zomato.com/grande-lisboa/level-eight-avenida-da-liberdade-lisboa/info,25
+398,Confeitaria Nacional,https://www.zomato.com/grande-lisboa/confeitaria-nacional-rossio-lisboa/info,10
+399,Green Pepper,https://www.zomato.com/grande-lisboa/green-pepper-campolide-lisboa/info,22
+400,Café do Paço,https://www.zomato.com/grande-lisboa/café-do-paço-pena-lisboa/info,50
+401,Davito,https://www.zomato.com/grande-lisboa/davito-penha-de-frança-lisboa/info,30
+402,Nune's Real Marisqueira,https://www.zomato.com/grande-lisboa/nunes-real-marisqueira-belém-lisboa/info,70
+403,"Caco, o Original",https://www.zomato.com/grande-lisboa/caco-o-original-benfica-lisboa/info,20
+404,Portugália Cervejaria Almirante Reis,https://www.zomato.com/grande-lisboa/portugália-cervejaria-almirante-reis-arroios-lisboa/info,35
+405,Kaprixu,https://www.zomato.com/grande-lisboa/kaprixu-telheiras-lisboa/info,30
+406,Old Vic,https://www.zomato.com/grande-lisboa/old-vic-alvalade-lisboa/info,25
+407,Tágide,https://www.zomato.com/tagide/info,65
+408,Artis,https://www.zomato.com/grande-lisboa/artis-bairro-alto-lisboa/info,25
+409,D'Bacalhau,https://www.zomato.com/grande-lisboa/d-bacalhau-parque-das-nações-lisboa/info,35
+410,Frutalmeidas,https://www.zomato.com/grande-lisboa/frutalmeidas-alvalade-lisboa/info,15
+411,Laurentina,https://www.zomato.com/grande-lisboa/laurentina-praça-de-espanha-lisboa/info,45
+412,A gama do Vasco,https://www.zomato.com/grande-lisboa/a-gama-do-vasco-marquês-de-pombal-lisboa/info,20
+413,Italian Republic,https://www.zomato.com/grande-lisboa/italian-republic-1-alvalade-lisboa/info,30
+414,Casa dos Passarinhos,https://www.zomato.com/grande-lisboa/casa-dos-passarinhos-campo-de-ourique/info,40
+415,A Casa do Bacalhau,https://www.zomato.com/acasadobacalhau/info,50
+416,Stasha,https://www.zomato.com/grande-lisboa/stasha-bairro-alto-lisboa/info,25
+417,Príncipe do Calhariz,https://www.zomato.com/grande-lisboa/príncipe-do-calhariz-bairro-alto-lisboa/info,20
+418,Doca de Santo,https://www.zomato.com/grande-lisboa/doca-de-santo-alcântara-lisboa/info,45
+419,O Funil,https://www.zomato.com/grande-lisboa/o-funil-campo-pequeno-lisboa/info,50
+420,Retrogusto84,https://www.zomato.com/grande-lisboa/retrogusto84-anjos-lisboa/info,30
+421,Espada,https://www.zomato.com/grande-lisboa/espada-cais-do-sodré-lisboa/info,45
+422,Dom Tacho,https://www.zomato.com/grande-lisboa/dom-tacho-campo-pequeno/info,28
+423,Leitaria da Quinta do Paço,https://www.zomato.com/grande-lisboa/leitaria-da-quinta-do-paço-areeiro-lisboa/info,10
+424,Nova Peixaria - Restaurante,https://www.zomato.com/grande-lisboa/nova-peixaria-restaurante-parque-das-nações-lisboa/info,20
+425,La Campania,https://www.zomato.com/grande-lisboa/la-campania-rato-lisboa/info,45
+426,Jardim da Luz,https://www.zomato.com/grande-lisboa/jardim-da-luz-carnide-lisboa/info,45
+427,L'Origine by Chakall,https://www.zomato.com/grande-lisboa/lorigine-by-chakall-parque-das-nações-lisboa/info,30
+428,Dim Sum Park,https://www.zomato.com/grande-lisboa/dim-sum-park-telheiras-lisboa/info,15
+429,Sem Palavras,https://www.zomato.com/grande-lisboa/sem-palavras-alvalade-lisboa/info,40
+430,Prazeres da Picanha,https://www.zomato.com/grande-lisboa/prazeres-da-picanha-campo-pequeno-lisboa/info,25
+431,Bala,https://www.zomato.com/grande-lisboa/bala-amoreiras-lisboa/info,20
+432,Cervetoria,https://www.zomato.com/grande-lisboa/cervetoria-arroios-lisboa/info,25
+433,Mezzogiorno - Pizzeria,https://www.zomato.com/grande-lisboa/mezzogiorno-pizzeria-chiado-lisboa/info,25
+434,28 Café,https://www.zomato.com/grande-lisboa/28-café-castelo-lisboa/info,18
+435,Luminosa by Furnas,https://www.zomato.com/grande-lisboa/luminosa-by-furnas-arroios-lisboa/info,45
+436,Ibo,https://www.zomato.com/grande-lisboa/ibo-cais-do-sodré-lisboa/info,80
+437,The Darjeeling Express,https://www.zomato.com/grande-lisboa/the-darjeeling-express-são-domingos-de-benfica-lisboa/info,32
+438,Méson Andaluz,https://www.zomato.com/grande-lisboa/méson-andaluz-chiado-lisboa/info,40
+439,Toscana Casa de Pasto,https://www.zomato.com/grande-lisboa/toscana-casa-de-pasto-alcântara-lisboa/info,40
+440,Cantina Baldracca,https://www.zomato.com/grande-lisboa/cantina-baldracca-mouraria-lisboa/info,30
+441,Bistro Edelweiss,https://www.zomato.com/grande-lisboa/bistro-edelweiss-príncipe-real-lisboa/info,45
+442,Hamburgueria da Parada,https://www.zomato.com/grande-lisboa/hamburgueria-da-parada-campo-de-ourique-lisboa/info,16
+443,Italian Burger House,https://www.zomato.com/grande-lisboa/italian-burger-house-parque-das-nações-lisboa/info,15
+444,Kafeine  Coffee & Brunch,https://www.zomato.com/grande-lisboa/kafeine-coffee-brunch-avenida-da-liberdade-lisboa/info,25
+445,Nós é Mais Bolos,https://www.zomato.com/grande-lisboa/nós-é-mais-bolos-cais-do-sodré-lisboa/info,12
+446,Cerveteca Lisboa,https://www.zomato.com/grande-lisboa/cerveteca-lisboa-príncipe-real-lisboa/info,15
+447,Café Principe Real Bar & Restaurant,https://www.zomato.com/grande-lisboa/café-principe-real-bar-restaurant-príncipe-real-lisboa/info,50
+448,La Pasta Fresca,https://www.zomato.com/grande-lisboa/la-pasta-fresca-campo-pequeno-lisboa/info,35
+449,The Food for Real,https://www.zomato.com/grande-lisboa/the-food-for-real-alcântara-lisboa/info,14
+450,Stanislav Café,https://www.zomato.com/grande-lisboa/stanislav-café-avenida-da-liberdade-lisboa/info,20
+451,Chaminés do Palácio,https://www.zomato.com/grande-lisboa/chaminés-do-palácio-rossio-lisboa/info,30
+452,Huang He,https://www.zomato.com/grande-lisboa/huang-he-entrecampos-lisboa/info,20
+453,A Luz Ideal,https://www.zomato.com/aluzideal/info,15
+454,Fábrica Braço de Prata,https://www.zomato.com/grande-lisboa/fábrica-braço-de-prata-marvila-lisboa/info,12
+455,Sabor Mineiro,https://www.zomato.com/grande-lisboa/sabor-mineiro-campolide-lisboa/info,40
+456,FIB - Acqua in Bocca,https://www.zomato.com/geladosfib/info,6
+457,Louqura,https://www.zomato.com/grande-lisboa/louqura-campo-de-ourique-lisboa/info,35
+458,Irish & Co.,https://www.zomato.com/grande-lisboa/irish-co-parque-das-nações-lisboa/info,25
+459,Querubim Lisboa,https://www.zomato.com/grande-lisboa/querubim-lisboa-telheiras-lisboa/info,8
+460,Varanda Vale Formoso,https://www.zomato.com/grande-lisboa/varanda-vale-formoso-marvila-lisboa/info,40
+461,Sakura,https://www.zomato.com/grande-lisboa/sakura-parque-das-nações-lisboa/info,40
+462,K-BOB - Restaurante Coreano,https://www.zomato.com/grande-lisboa/k-bob-restaurante-coreano-praça-de-espanha-lisboa/info,30
+463,Tapa Bucho - Gastrobar,https://www.zomato.com/grande-lisboa/tapa-bucho-gastrobar-2-bairro-alto-lisboa/info,25
+464,Oh Pereira - Casa de Pasto,https://www.zomato.com/grande-lisboa/oh-pereira-casa-de-pasto-campo-pequeno-lisboa/info,20
+465,Irriverente,https://www.zomato.com/grande-lisboa/irriverente-cais-do-sodré-lisboa/info,30
+466,Wurst - Salsicharia Austríaca,https://www.zomato.com/grande-lisboa/wurst-salsicharia-austríaca-são-bento-lisboa/info,18
+467,Lat.a,https://www.zomato.com/grande-lisboa/lat-a-alcântara-lisboa/info,30
+468,Baía do Peixe,https://www.zomato.com/grande-lisboa/baía-do-peixe-campo-pequeno-lisboa/info,60
+469,Coelho da Rocha,https://www.zomato.com/grande-lisboa/coelho-da-rocha-campo-de-ourique-lisboa/info,60
+470,Vegan Junkies,https://www.zomato.com/grande-lisboa/vegan-junkies-pena-lisboa/info,25
+471,Nepon Restaurante,https://www.zomato.com/grande-lisboa/nepon-restaurante-arroios-lisboa/info,20
+472,Estrela da Bica,https://www.zomato.com/estreladabica/info,30
+473,KOPPU RAMEN IZAKAYA,https://www.zomato.com/grande-lisboa/koppu-ramen-izakaya-avenida-da-liberdade-lisboa/info,35
+474,IIIMPAR,https://www.zomato.com/grande-lisboa/iiimpar-rato-lisboa/info,50
+475,O Galito,https://www.zomato.com/grande-lisboa/o-galito-carnide-lisboa/info,50
+476,Kikusushi,https://www.zomato.com/grande-lisboa/kikusushi-baixa-lisboa/info,30
+477,Taberna Anti-Dantas,https://www.zomato.com/grande-lisboa/taberna-anti-dantas-avenida-da-liberdade-lisboa/info,40
+478,Feitoria Restaurante & Wine Bar - Altis Belém Hotel & Spa,https://www.zomato.com/grande-lisboa/feitoria-restaurante-wine-bar-altis-belém-hotel-spa-belém-lisboa/info,250
+479,ISO Lisboa,https://www.zomato.com/grande-lisboa/iso-lisboa-alcântara-lisboa/info,60
+480,Wok Ninja,https://www.zomato.com/grande-lisboa/wok-ninja-telheiras-lisboa/info,25
+481,Shree Ram - 100% Vegetarian & Vegan Indian Restaurant,https://www.zomato.com/grande-lisboa/shree-ram-100-vegetarian-vegan-indian-restaurant-saldanha-lisboa/info,25
+482,RIB - Beef & Wine,https://www.zomato.com/grande-lisboa/rib-beef-wine-baixa-lisboa/info,60
+483,ChuanYue,https://www.zomato.com/grande-lisboa/chuanyue-alvalade-lisboa/info,30
+484,A Carpintaria,https://www.zomato.com/grande-lisboa/a-carpintaria-cais-do-sodré-lisboa/info,30
+485,Monte Mar Lisboa,https://www.zomato.com/grande-lisboa/monte-mar-lisboa-cais-do-sodré-lisboa/info,80
+486,Tabik,https://www.zomato.com/Tabik/info,60
+487,A Tapadinha,https://www.zomato.com/grande-lisboa/a-tapadinha-alcântara-lisboa/info,53
+488,O Frade,https://www.zomato.com/grande-lisboa/o-frade-belém-lisboa/info,25
+489,Bettina e Niccòlo Corallo,https://www.zomato.com/grande-lisboa/bettina-e-niccòlo-corallo-príncipe-real-lisboa/info,10
+490,The Couch Sports Bar,https://www.zomato.com/grande-lisboa/the-couch-sports-bar-cais-do-sodré-lisboa/info,20
+491,Quotidiano,https://www.zomato.com/grande-lisboa/quotidiano-alcântara-lisboa/info,30
+492,Mercantina Bistro 37,https://www.zomato.com/grande-lisboa/mercantina-bistro-37-campo-pequeno-lisboa/info,40
+493,Caffè di Marzano,https://www.zomato.com/grande-lisboa/caffè-di-marzano-1-chiado-lisboa/info,30
+494,Buonapizza,https://www.zomato.com/grande-lisboa/buonapizza-saldanha-lisboa/info,30
+495,Hamburg The Burger House,https://www.zomato.com/grande-lisboa/hamburg-the-burger-house-parque-das-nações-lisboa/info,20
+496,Alecrim no Prato,https://www.zomato.com/alecrim-no-prato/info,35
+497,Dama e Vagabundo,https://www.zomato.com/grande-lisboa/dama-e-vagabundo-baixa-lisboa/info,30
+498,DeliDelux,https://www.zomato.com/grande-lisboa/delidelux-avenida-da-liberdade-lisboa/info,20
+499,Espiral Restaurante,https://www.zomato.com/EspiralRestaurante/info,20
+500,Zé Pinto,https://www.zomato.com/grande-lisboa/zé-pinto-benfica-lisboa/info,25
+501,To.B,https://www.zomato.com/grande-lisboa/to-b-chiado-lisboa/info,25
+502,Sacramento,https://www.zomato.com/grande-lisboa/sacramento-chiado-lisboa/info,50
+503,Taberna da Rua das Flores,https://www.zomato.com/grande-lisboa/taberna-da-rua-das-flores-chiado-lisboa/info,30
+504,Mercantina,https://www.zomato.com/grande-lisboa/mercantina-chiado-lisboa/info,40
+505,Mini Bar,https://www.zomato.com/minibar/info,120
+506,Sea Me - Peixaria Moderna,https://www.zomato.com/grande-lisboa/sea-me-peixaria-moderna-chiado-lisboa/info,70
+507,Belcanto,https://www.zomato.com/belcanto/info,220
+508,Afuri - Ramen + Izakaya,https://www.zomato.com/grande-lisboa/afuri-ramen-izakaya-chiado-lisboa/info,45
+509,La Brasserie de L'Entrecôte,https://www.zomato.com/grande-lisboa/la-brasserie-de-lentrecôte-chiado-lisboa/info,65
+510,Alma,https://www.zomato.com/grande-lisboa/alma-chiado-lisboa/info,100
+511,Royale Café,https://www.zomato.com/grande-lisboa/royale-café-chiado-lisboa/info,40
+512,Café Buenos Aires,https://www.zomato.com/grande-lisboa/café-buenos-aires-chiado-lisboa/info,50
+513,Pizzaria Lisboa,https://www.zomato.com/pizzarialisboa/info,50
+514,Nood,https://www.zomato.com/grande-lisboa/nood-chiado-lisboa/info,30
+515,Casinha Boutique Café,https://www.zomato.com/grande-lisboa/casinha-boutique-café-chiado-lisboa/info,12
+516,Entretanto Rooftop Bar - Hotel do Chiado,https://www.zomato.com/grande-lisboa/entretanto-rooftop-bar-hotel-do-chiado-chiado-lisboa/info,35
+517,Vicente by Carnalentejana,https://www.zomato.com/grande-lisboa/vicente-by-carnalentejana-chiado/info,40
+518,Organi Chiado,https://www.zomato.com/grande-lisboa/organi-chiado-chiado-lisboa/info,30
+519,Ofício Lisboa,https://www.zomato.com/grande-lisboa/ofício-lisboa-chiado-lisboa/info,50
+520,Sushima,https://www.zomato.com/grande-lisboa/sushima-chiado-lisboa/info,40
+521,Mano a Mano,https://www.zomato.com/grande-lisboa/mano-a-mano-chiado-lisboa/info,40
+522,Silk Club,https://www.zomato.com/grande-lisboa/silk-club-chiado-lisboa/info,80
+523,Jardim das Cerejas,https://www.zomato.com/grande-lisboa/jardim-das-cerejas-chiado-lisboa/info,19
+524,Cantina das Freiras,https://www.zomato.com/grande-lisboa/cantina-das-freiras-chiado-lisboa/info,16
+525,Honorato,https://www.zomato.com/grande-lisboa/honorato-chiado-lisboa/info,25
+526,Amorino,https://www.zomato.com/grande-lisboa/amorino-chiado-lisboa/info,12
+527,Landeau,https://www.zomato.com/grande-lisboa/landeau-chiado-lisboa/info,12
+528,Aprazível,https://www.zomato.com/Aprazivel/info,45
+529,Wine Not?,https://www.zomato.com/grande-lisboa/wine-not-chiado-lisboa/info,25
+530,Tágide,https://www.zomato.com/tagide/info,65
+531,Mezzogiorno - Pizzeria,https://www.zomato.com/grande-lisboa/mezzogiorno-pizzeria-chiado-lisboa/info,25
+532,Méson Andaluz,https://www.zomato.com/grande-lisboa/méson-andaluz-chiado-lisboa/info,40
+533,Caffè di Marzano,https://www.zomato.com/grande-lisboa/caffè-di-marzano-1-chiado-lisboa/info,30
+534,Palácio Chiado,https://www.zomato.com/grande-lisboa/palácio-chiado-2-chiado-lisboa/info,60
+535,The Green Affair - Chiado,https://www.zomato.com/grande-lisboa/the-green-affair-chiado-chiado-lisboa/info,30
+536,O Boteco,https://www.zomato.com/grande-lisboa/o-boteco-chiado-lisboa/info,50
+537,Poké House,https://www.zomato.com/grande-lisboa/poké-house-chiado-lisboa/info,20
+538,Tágide Wine & Tapas Bar,https://www.zomato.com/grande-lisboa/tágide-wine-tapas-bar-chiado-lisboa/info,30
+539,Oficina do Duque,https://www.zomato.com/grande-lisboa/oficina-do-duque-chiado-lisboa/info,30
+540,Sacolinha,https://www.zomato.com/grande-lisboa/sacolinha-chiado-lisboa/info,8
+541,Starbucks,https://www.zomato.com/grande-lisboa/starbucks-chiado-lisboa/info,12
+542,Coimbra Taberna,https://www.zomato.com/grande-lisboa/coimbra-taberna-chiado-lisboa/info,35
+543,Visconti Chiado,https://www.zomato.com/grande-lisboa/visconti-chiado-chiado-lisboa/info,60
+544,Fábrica Coffee Shop,https://www.zomato.com/grande-lisboa/fábrica-coffee-shop-chiado-lisboa/info,12
+545,Dear Breakfast,https://www.zomato.com/grande-lisboa/dear-breakfast-chiado-lisboa/info,15
+546,Noori Sushi,https://www.zomato.com/grande-lisboa/noori-sushi-chiado-lisboa/info,20
+547,Café no Chiado,https://www.zomato.com/grande-lisboa/café-no-chiado-chiado-lisboa/info,45
+548,Nómada Chiado,https://www.zomato.com/grande-lisboa/nómada-chiado-chiado-lisboa/info,90
+549,Chiado Caffé,https://www.zomato.com/grande-lisboa/chiado-caffé-chiado-lisboa/info,11
+550,BuoNapoletano,https://www.zomato.com/grande-lisboa/buonapoletano-chiado-lisboa/info,35
+551,Casa da Índia,https://www.zomato.com/grande-lisboa/casa-da-índia-chiado-lisboa/info,25
+552,Benard,https://www.zomato.com/grande-lisboa/benard-chiado-lisboa/info,35
+553,Pastelaria Alcôa,https://www.zomato.com/grande-lisboa/pastelaria-alcôa-chiado-lisboa/info,8
+554,Epur,https://www.zomato.com/grande-lisboa/epur-chiado-lisboa/info,70
+555,Solidó,https://www.zomato.com/grande-lisboa/solidó-chiado-lisboa/info,30
+556,O Trevo,https://www.zomato.com/grande-lisboa/o-trevo-chiado-lisboa/info,15
+557,A Padaria Portuguesa - Camões,https://www.zomato.com/apadariaportuguesacamoes/info,8
+558,Aqui Há Peixe,https://www.zomato.com/grande-lisboa/aqui-há-peixe-chiado-lisboa/info,70
+559,Super Mário,https://www.zomato.com/grande-lisboa/super-mário-chiado-lisboa/info,24
+560,Duque BrewPub,https://www.zomato.com/grande-lisboa/duque-brewpub-chiado-lisboa/info,28
+561,Carmo Restaurante & Bar,https://www.zomato.com/grande-lisboa/carmo-restaurante-bar-chiado-lisboa/info,50
+562,Mesa com Pão,https://www.zomato.com/grande-lisboa/mesa-com-pão-chiado-lisboa/info,12
+563,GROM,https://www.zomato.com/grande-lisboa/grom-chiado-lisboa/info,9
+564,A Velha Gruta,https://www.zomato.com/grande-lisboa/a-velha-gruta-chiado-lisboa/info,40
+565,Chocolataria Equador,https://www.zomato.com/grande-lisboa/chocolataria-equador-chiado-lisboa/info,10
+566,Casa dos Pecados,https://www.zomato.com/grande-lisboa/casa-dos-pecados-chiado-lisboa/info,40
+567,Restaurante das Flores,https://www.zomato.com/grande-lisboa/restaurante-das-flores-chiado-lisboa/info,25
+568,A Parreirinha do Duque,https://www.zomato.com/grande-lisboa/a-parreirinha-do-duque-chiado-lisboa/info,24
+569,A Colmeia,https://www.zomato.com/grande-lisboa/a-colmeia-chiado-lisboa/info,15
+570,Solar do Duque,https://www.zomato.com/grande-lisboa/solar-do-duque-chiado-lisboa/info,30
+571,BrigaDoce Caffé,https://www.zomato.com/grande-lisboa/brigadoce-caffé-chiado-lisboa/info,6
+572,O Bolo da Marta,https://www.zomato.com/grande-lisboa/o-bolo-da-marta-chiado-lisboa/info,10
+573,We Poke,https://www.zomato.com/grande-lisboa/we-poke-chiado-lisboa/info,25
+574,Duque Lisboa,https://www.zomato.com/grande-lisboa/duque-lisboa-chiado-lisboa/info,30
+575,Amazônia,https://www.zomato.com/grande-lisboa/amazônia-chiado-lisboa/info,40
+576,Chiado Terrasse,https://www.zomato.com/grande-lisboa/chiado-terrasse-chiado-lisboa/info,8
+577,Grelha do Carmo,https://www.zomato.com/grande-lisboa/grelha-do-carmo-chiado/info,18
+578,Taberna - Bairro do Avillez,https://www.zomato.com/grande-lisboa/taberna-bairro-do-avillez-chiado-lisboa/info,50
+579,Tapas Bar 47,https://www.zomato.com/grande-lisboa/tapas-bar-47-chiado-lisboa/info,25
+580,Faca & Garfo,https://www.zomato.com/grande-lisboa/faca-garfo-chiado-lisboa/info,25
+581,Eva Bar & Restaurante,https://www.zomato.com/grande-lisboa/eva-bar-restaurante-chiado-lisboa/info,35
+582,Portugália Balcão Chiado,https://www.zomato.com/grande-lisboa/portugália-balcão-chiado-chiado-lisboa/info,15
+583,Padaria do Bairro,https://www.zomato.com/grande-lisboa/padaria-do-bairro-chiado-lisboa/info,6
+584,Escondidinho da Curva,https://www.zomato.com/grande-lisboa/escondidinho-da-curva-chiado-lisboa/info,20
+585,Tapas n' Friends - Trindade,https://www.zomato.com/grande-lisboa/tapas-n-friends-trindade-chiado-lisboa/info,30
+586,Grau Douro,https://www.zomato.com/grande-lisboa/grau-douro-chiado-lisboa/info,12
+587,Casa dos Ovos Moles em Lisboa,https://www.zomato.com/grande-lisboa/casa-dos-ovos-moles-em-lisboa-chiado-lisboa/info,5
+588,Beer&Wine Up,https://www.zomato.com/grande-lisboa/beer-wine-up-chiado-lisboa/info,30
+589,Joshua's Shoarma,https://www.zomato.com/grande-lisboa/joshuas-shoarma-chiado-lisboa/info,15
+590,McDonald's,https://www.zomato.com/grande-lisboa/mcdonalds-chiado-lisboa/info,15
+591,Quiosque Lisboa - Praça Luis de Camões,https://www.zomato.com/grande-lisboa/quiosque-lisboa-praça-luis-de-camões-chiado-lisboa/info,10
+592,Sr. Frango da Guia,https://www.zomato.com/grande-lisboa/sr-frango-da-guia-chiado-lisboa/info,25
+593,That Burrata Place,https://www.zomato.com/grande-lisboa/that-burrata-place-chiado-lisboa/info,40
+594,Solar do Loreto,https://www.zomato.com/grande-lisboa/solar-do-loreto-chiado-lisboa/info,20
+595,The Spot,https://www.zomato.com/grande-lisboa/the-spot-chiado-lisboa/info,20
+596,Taqueria do Chiado,https://www.zomato.com/grande-lisboa/taqueria-do-chiado-chiado-lisboa/info,30
+597,Lisboa 33,https://www.zomato.com/grande-lisboa/lisboa-33-chiado-lisboa/info,30
+598,Mimosa do Camões,https://www.zomato.com/grande-lisboa/mimosa-do-camões-chiado-lisboa/info,25
+599,Loja das Sopas,https://www.zomato.com/grande-lisboa/loja-das-sopas-chiado-lisboa/info,14
+600,SO Coffee Roasters,https://www.zomato.com/grande-lisboa/so-coffee-roasters-chiado-lisboa/info,10
+601,Quiosque do Carmo,https://www.zomato.com/grande-lisboa/quiosque-do-carmo-chiado-lisboa/info,14
+602,Maria do Carmo,https://www.zomato.com/grande-lisboa/maria-do-carmo-chiado-lisboa/info,50
+603,Adega de S. Roque,https://www.zomato.com/grande-lisboa/adega-de-s-roque-chiado-lisboa/info,25
+604,Sabor Gaucho,https://www.zomato.com/grande-lisboa/sabor-gaucho-chiado-lisboa/info,30
+605,Securas,https://www.zomato.com/grande-lisboa/securas-chiado-lisboa/info,20
+606,26B Vegan Street Food,https://www.zomato.com/grande-lisboa/26b-vegan-street-food-chiado-lisboa/info,30
+607,Vitaminas,https://www.zomato.com/grande-lisboa/vitaminas-1-chiado-lisboa/info,15
+608,Capri,https://www.zomato.com/grande-lisboa/capri-chiado-lisboa/info,25
+609,Gelatiamo,https://www.zomato.com/grande-lisboa/gelatiamo-chiado-lisboa/info,12
+610,Revolução,https://www.zomato.com/grande-lisboa/revolução-chiado-lisboa/info,60
+611,O Fernandinho,https://www.zomato.com/grande-lisboa/o-fernandinho-chiado-lisboa/info,26
+612,Fado ao Carmo,https://www.zomato.com/grande-lisboa/fado-ao-carmo-chiado-lisboa/info,50
+613,Weeel Frozen Yogurt,https://www.zomato.com/weeel-frozen-yogurt-4-food-tru/info,8
+614,Popular do Capelo,https://www.zomato.com/grande-lisboa/popular-do-capelo-chiado-lisboa/info,25
+615,Café Bertrand,https://www.zomato.com/grande-lisboa/café-bertrand-chiado-lisboa/info,15
+616,AllChiado,https://www.zomato.com/grande-lisboa/allchiado-chiado-lisboa/info,20
+617,Açaí Concept,https://www.zomato.com/grande-lisboa/açaí-concept-chiado-lisboa/info,13
+618,Nova - Wine bar,https://www.zomato.com/grande-lisboa/nova-wine-bar-chiado-lisboa/info,15
+619,Wok to Walk,https://www.zomato.com/grande-lisboa/wok-to-walk-chiado-lisboa/info,20
+620,Oficina Craft Snackery,https://www.zomato.com/grande-lisboa/oficina-craft-snackery-chiado-lisboa/info,25
+621,Companhia,https://www.zomato.com/grande-lisboa/companhia-chiado-lisboa/info,15
+622,Leitaria Académica,https://www.zomato.com/grande-lisboa/leitaria-académica-chiado-lisboa/info,20
+623,Godiva,https://www.zomato.com/grande-lisboa/godiva-chiado-lisboa/info,12
+624,Babete Restaurant...e...?,https://www.zomato.com/grande-lisboa/babete-restaurant-e-chiado-lisboa/info,35
+625,A Gruta de Camões,https://www.zomato.com/grande-lisboa/a-gruta-de-camões-chiado-lisboa/info,25
+626,Um Eléctrico Chamado Tágide,https://www.zomato.com/grande-lisboa/um-eléctrico-chamado-tágide-chiado-lisboa/info,20
+627,Pastelaria Emenda,https://www.zomato.com/grande-lisboa/pastelaria-emenda-chiado-lisboa/info,8
+628,O Cerveirense,https://www.zomato.com/grande-lisboa/o-cerveirense-chiado-lisboa/info,30
+629,O Caçador de Oliveira,https://www.zomato.com/grande-lisboa/o-caçador-de-oliveira-chiado-lisboa/info,20
+630,Vertigo,https://www.zomato.com/grande-lisboa/vertigo-chiado-lisboa/info,30
+631,Le Baron,https://www.zomato.com/grande-lisboa/le-baron-chiado-lisboa/info,25
+632,Mommy Cake Blue Tea,https://www.zomato.com/grande-lisboa/mommy-cake-blue-tea-chiado-lisboa/info,12
+633,Pastelaria Camões,https://www.zomato.com/grande-lisboa/pastelaria-camões-chiado-lisboa/info,15
+634,Tea Shop Chiado,https://www.zomato.com/grande-lisboa/tea-shop-chiado-chiado-lisboa/info,6
+635,Português Antigo Café,https://www.zomato.com/grande-lisboa/português-antigo-café-chiado-lisboa/info,20
+636,H3 Armazéns do Chiado,https://www.zomato.com/grande-lisboa/h3-armazéns-do-chiado-chiado-lisboa/info,20
+637,A Brasileira,https://www.zomato.com/abrasileira/info,40
+638,O Português,https://www.zomato.com/grande-lisboa/o-português-chiado-lisboa/info,15
+639,Dote,https://www.zomato.com/grande-lisboa/dote-chiado-lisboa/info,25
+640,Family Café - Martinhal Lisboa,https://www.zomato.com/grande-lisboa/family-café-martinhal-lisboa-chiado-lisboa/info,40
+641,Quiosque de São Roque,https://www.zomato.com/grande-lisboa/quiosque-de-são-roque-1-chiado-lisboa/info,10
+642,Salada de Frutas,https://www.zomato.com/grande-lisboa/salada-de-frutas-chiado-lisboa/info,20
+643,The Art Gate,https://www.zomato.com/grande-lisboa/the-art-gate-chiado-lisboa/info,100
+644,Cafetaria do Cinema Ideal,https://www.zomato.com/grande-lisboa/cafetaria-do-cinema-ideal-chiado-lisboa/info,10
+645,Chiado Garden,https://www.zomato.com/grande-lisboa/chiado-garden-chiado-lisboa/info,25
+646,Taverna Coração Independente,https://www.zomato.com/grande-lisboa/taverna-coração-independente-1-chiado-lisboa/info,40
+647,Izzi Pizzas Caseiras,https://www.zomato.com/grande-lisboa/izzi-pizzas-caseiras-chiado-lisboa/info,14
+648,Nespresso - Chiado,https://www.zomato.com/grande-lisboa/nespresso-chiado-chiado-lisboa/info,10
+649,Bifanas Vendas Novas,https://www.zomato.com/grande-lisboa/bifanas-vendas-novas-chiado-lisboa/info,20
+650,Solar dos Galegos,https://www.zomato.com/grande-lisboa/solar-dos-galegos-chiado-lisboa/info,16
+651,Lábios de Mosto,https://www.zomato.com/grande-lisboa/lábios-de-mosto-1-chiado-lisboa/info,20
+652,TAG The Restaurant,https://www.zomato.com/grande-lisboa/tag-the-restaurant-chiado-lisboa/info,200
+653,Trindade Sete Chiado,https://www.zomato.com/grande-lisboa/trindade-sete-chiado-chiado-lisboa/info,35
+654,Atalho Real,https://www.zomato.com/grande-lisboa/atalho-real-príncipe-real-lisboa/info,45
+655,Nicolau Lisboa,https://www.zomato.com/grande-lisboa/nicolau-lisboa-baixa-lisboa/info,20
+656,Heim Cafe,https://www.zomato.com/grande-lisboa/heim-cafe-santos-lisboa/info,20
+657,Fauna & Flora,https://www.zomato.com/grande-lisboa/fauna-flora-madragoa-lisboa/info,25
+658,Contrabando,https://www.zomato.com/grande-lisboa/contrabando-santos-lisboa/info,30
+659,Zero Zero - Príncipe Real,https://www.zomato.com/grande-lisboa/zero-zero-príncipe-real-príncipe-real-lisboa/info,50
+660,Sala de Corte,https://www.zomato.com/SalaDeCorte/info,60
+661,"Madame Petisca Restaurante, Bar e Terraço",https://www.zomato.com/grande-lisboa/madame-petisca-restaurante-bar-e-terraço-bica-lisboa/info,35
+662,Lost In,https://www.zomato.com/grande-lisboa/lost-in-príncipe-real-lisboa/info,50
+663,Las Ficheras,https://www.zomato.com/grande-lisboa/las-ficheras-cais-do-sodré-lisboa/info,40
+664,SOI,https://www.zomato.com/grande-lisboa/soi-cais-do-sodré-lisboa/info,45
+665,Chutnify - Príncipe Real,https://www.zomato.com/grande-lisboa/chutnify-príncipe-real-príncipe-real-lisboa/info,45
+666,Segundo Muelle,https://www.zomato.com/grande-lisboa/segundo-muelle-cais-do-sodré-lisboa/info,50
+667,Popolo - Pizza & Burger,https://www.zomato.com/grande-lisboa/popolo-pizza-burger-santos-lisboa/info,25
+668,Jamie's Italian,https://www.zomato.com/grande-lisboa/jamies-italian-príncipe-real-lisboa/info,40
+669,Le Chat - Food & Cocktail,https://www.zomato.com/grande-lisboa/le-chat-food-cocktail-santos-lisboa/info,38
+670,Osteria,https://www.zomato.com/grande-lisboa/osteria-madragoa-lisboa/info,35
+671,Miss Jappa,https://www.zomato.com/grande-lisboa/miss-jappa-príncipe-real-lisboa/info,40
+672,A Cevicheria,https://www.zomato.com/acevicheria/info,60
+673,Pop Cereal Café,https://www.zomato.com/popcerealcafe/info,8
+674,C.O.W - Beef & Cocktails,https://www.zomato.com/grande-lisboa/c-o-w-beef-cocktails-santos-lisboa/info,40
+675,La Paparrucha,https://www.zomato.com/grande-lisboa/la-paparrucha-príncipe-real-lisboa/info,80
+676,Panda Cantina,https://www.zomato.com/grande-lisboa/panda-cantina-baixa-lisboa/info,25
+677,Noobai,https://www.zomato.com/grande-lisboa/noobai-bica-lisboa/info,34
+678,Orteá - Vegan Collective,https://www.zomato.com/grande-lisboa/orteá-vegan-collective-cais-do-sodré-lisboa/info,30
+679,Pharmacia Felicidade,https://www.zomato.com/grande-lisboa/pharmacia-felicidade-bica-lisboa/info,45
+680,Frutaria Café,https://www.zomato.com/grande-lisboa/frutaria-café-baixa-lisboa/info,20
+681,The Decadente,https://www.zomato.com/grande-lisboa/the-decadente-bairro-alto-lisboa/info,50
+682,DownUnder by Justin Jennings,https://www.zomato.com/downunder/info,50
+683,Água pela Barba,https://www.zomato.com/grande-lisboa/água-pela-barba-bica-lisboa/info,40
+684,Tease,https://www.zomato.com/grande-lisboa/tease-príncipe-real-lisboa/info,12
+685,Bonsai,https://www.zomato.com/grande-lisboa/bonsai-príncipe-real/info,50
+686,Restaurante Marco,https://www.zomato.com/grande-lisboa/restaurante-marco-santos-lisboa/info,30
+687,Il Matriciano,https://www.zomato.com/grande-lisboa/il-matriciano-são-bento-lisboa/info,50
+688,The George,https://www.zomato.com/grande-lisboa/the-george-baixa-lisboa/info,40
+689,Café de São Bento,https://www.zomato.com/grande-lisboa/café-de-são-bento-são-bento-lisboa/info,70
+690,Casa Cabaças,https://www.zomato.com/grande-lisboa/casa-cabaças-bairro-alto-lisboa/info,25
+691,Delfina - Cantina Portuguesa,https://www.zomato.com/grande-lisboa/delfina-cantina-portuguesa-baixa-lisboa/info,40
+692,Bohemio da Ribeira,https://www.zomato.com/grande-lisboa/bohemio-da-ribeira-cais-do-sodré-lisboa/info,45
+693,El Cabron • Tacos y Tequilla,https://www.zomato.com/grande-lisboa/el-cabron-tacos-y-tequilla-santos-lisboa/info,35
+694,Gelato Davvero,https://www.zomato.com/grande-lisboa/gelato-davvero-santos-lisboa/info,6
+695,Tasca Kome,https://www.zomato.com/grande-lisboa/tasca-kome-baixa-lisboa/info,60
+696,Confraria LX - LX Boutique Hotel,https://www.zomato.com/grande-lisboa/confraria-lx-lx-boutique-hotel-cais-do-sodré-lisboa/info,50
+697,La Piadina,https://www.zomato.com/grande-lisboa/la-piadina-bairro-alto-lisboa/info,18
+698,In Bocca al Lupo,https://www.zomato.com/grande-lisboa/in-bocca-al-lupo-príncipe-real-lisboa/info,45
+699,Brunch Café,https://www.zomato.com/grande-lisboa/brunch-café-baixa-lisboa/info,25
+700,The Insólito Restaurante & Bar,https://www.zomato.com/grande-lisboa/the-insólito-restaurante-bar-bairro-alto-lisboa/info,75
+701,Trópico do Cais,https://www.zomato.com/grande-lisboa/trópico-do-cais-cais-do-sodré-lisboa/info,30
+702,RUA - Príncipe Real,https://www.zomato.com/grande-lisboa/rua-príncipe-real-príncipe-real-lisboa/info,30
+703,Basílio Lisboa,https://www.zomato.com/grande-lisboa/basílio-lisboa-sé-lisboa/info,20
+704,Bella Ciao,https://www.zomato.com/grande-lisboa/bella-ciao-baixa-lisboa/info,30
+705,Tantura,https://www.zomato.com/grande-lisboa/tantura-bairro-alto-lisboa/info,30
+706,Pois Café,https://www.zomato.com/grande-lisboa/pois-café-sé-lisboa/info,25
+707,Água no Bico,https://www.zomato.com/grande-lisboa/água-no-bico-são-bento-lisboa/info,35
+708,Boutik,https://www.zomato.com/grande-lisboa/boutik-são-bento-lisboa/info,18
+709,Tapisco,https://www.zomato.com/grande-lisboa/tapisco-príncipe-real-lisboa/info,50
+710,Guacamole - GMG,https://www.zomato.com/grande-lisboa/guacamole-gmg-cais-do-sodré-lisboa/info,25
+711,Penta Café,https://www.zomato.com/grande-lisboa/penta-café-baixa-lisboa/info,20
+712,Pão de Canela,https://www.zomato.com/grande-lisboa/pão-de-canela-príncipe-real-lisboa/info,20
+713,Restaurante Chapitô à Mesa,https://www.zomato.com/chapitoamesa/info,55
+714,Crispy Mafya,https://www.zomato.com/grande-lisboa/crispy-mafya-1-príncipe-real-lisboa/info,40
+715,O Tachadas,https://www.zomato.com/grande-lisboa/o-tachadas-madragoa-lisboa/info,25
+716,Seagull Method,https://www.zomato.com/grande-lisboa/seagull-method-príncipe-real-lisboa/info,25
+717,Taberna Moderna,https://www.zomato.com/grande-lisboa/taberna-moderna-sé-lisboa/info,60
+718,The Mill,https://www.zomato.com/grande-lisboa/the-mill-são-bento-lisboa/info,30
+719,Local Santos - Your Healthy Kitchen,https://www.zomato.com/grande-lisboa/local-santos-your-healthy-kitchen-santos-lisboa/info,25
+720,Trobadores,https://www.zomato.com/grande-lisboa/trobadores-baixa-lisboa/info,30
+721,Gin Lovers Bar & Restaurant,https://www.zomato.com/grande-lisboa/gin-lovers-bar-restaurant-príncipe-real-lisboa/info,40
+722,Valdo Gatti,https://www.zomato.com/grande-lisboa/valdo-gatti-bairro-alto-lisboa/info,30
+723,Casanostra,https://www.zomato.com/grande-lisboa/casanostra-bairro-alto-lisboa/info,50
+724,Sumaya,https://www.zomato.com/grande-lisboa/sumaya-príncipe-real-lisboa/info,45
+725,Coyo Taco,https://www.zomato.com/grande-lisboa/coyo-taco-príncipe-real-lisboa/info,40
+726,Caxemira,https://www.zomato.com/grande-lisboa/caxemira-baixa-lisboa/info,30
+727,Copenhagen Coffee Lab.,https://www.zomato.com/grande-lisboa/copenhagen-coffee-lab-príncipe-real-lisboa/info,10
+728,Café Janis,https://www.zomato.com/grande-lisboa/café-janis-cais-do-sodré-lisboa/info,25
+729,Casa do Alentejo,https://www.zomato.com/grande-lisboa/casa-do-alentejo-rossio-lisboa/info,40
+730,Prado,https://www.zomato.com/pradorestaurante/info,60
+731,Último Porto,https://www.zomato.com/grande-lisboa/último-porto-santos-lisboa/info,30
+732,OKAH Restaurant & Rooftop,https://www.zomato.com/grande-lisboa/okah-restaurant-rooftop-santos-lisboa/info,60
+733,Cotidiano Lisboa,https://www.zomato.com/grande-lisboa/cotidiano-lisboa-baixa-lisboa/info,20
+734,Café do Rio - Hamburgueria Gourmet,https://www.zomato.com/grande-lisboa/café-do-rio-hamburgueria-gourmet-baixa-lisboa/info,40
+735,Santa Bica,https://www.zomato.com/grande-lisboa/santa-bica-bica-lisboa/info,40
+736,Bowls&Bar,https://www.zomato.com/grande-lisboa/bowls-bar-são-bento-lisboa/info,15
+737,Scoop n' Dough,https://www.zomato.com/grande-lisboa/scoop-n-dough-1-rossio-lisboa/info,8
+738,ZAZAH,https://www.zomato.com/grande-lisboa/zazah-príncipe-real-lisboa/info,50
+739,A Muralha - Tasca Típica,https://www.zomato.com/grande-lisboa/a-muralha-tasca-típica-alfama-lisboa/info,25
+740,Santini,https://www.zomato.com/grande-lisboa/santini-rossio-lisboa/info,10
+741,Season,https://www.zomato.com/grande-lisboa/season-são-bento-lisboa/info,50
+742,Pap’Açôrda,https://www.zomato.com/grande-lisboa/papaçôrda-1-cais-do-sodré-lisboa/info,50
+743,La Puttana,https://www.zomato.com/grande-lisboa/la-puttana-cais-do-sodré-lisboa/info,35
+744,Cervejaria Pinóquio,https://www.zomato.com/grande-lisboa/cervejaria-pinóquio-baixa-lisboa/info,50
+745,Taberna Tosca,https://www.zomato.com/tabernatosca/info,50
+746,Hamburgueria do Bairro,https://www.zomato.com/grande-lisboa/hamburgueria-do-bairro-príncipe-real-lisboa/info,16
+747,Gambrinus,https://www.zomato.com/grande-lisboa/gambrinus-rossio-lisboa/info,110
+748,Azia - Asian Cuisine,https://www.zomato.com/grande-lisboa/azia-asian-cuisine-cais-do-sodré-lisboa/info,30
+749,Comoba,https://www.zomato.com/grande-lisboa/comoba-cais-do-sodré-lisboa/info,18
+750,"Hello, Kristof",https://www.zomato.com/grande-lisboa/hello-kristof-são-bento-lisboa/info,15
+751,Taberna Portuguesa,https://www.zomato.com/grande-lisboa/taberna-portuguesa-bica-lisboa/info,30
+752,Vestigius,https://www.zomato.com/grande-lisboa/vestigius-cais-do-sodré-lisboa/info,55
+753,Mezzanine Creative Restaurant,https://www.zomato.com/grande-lisboa/mezzanine-creative-restaurante-cais-do-sodré-lisboa/info,40
+754,BouBou's,https://www.zomato.com/grande-lisboa/boubous-príncipe-real-lisboa/info,60
+755,Fábrica da Nata,https://www.zomato.com/grande-lisboa/fábrica-da-nata-rossio-lisboa/info,6
+756,Eight - The Health Lounge,https://www.zomato.com/grande-lisboa/eight-the-health-lounge-rossio-lisboa/info,20
+757,Avocado House Lisbon,https://www.zomato.com/grande-lisboa/avocado-house-lisbon-madragoa-lisboa/info,25
+758,Cultura do Hamburguer,https://www.zomato.com/grande-lisboa/cultura-do-hamburguer-bairro-alto-lisboa/info,20
+759,Confeitaria Nacional,https://www.zomato.com/grande-lisboa/confeitaria-nacional-rossio-lisboa/info,10
+760,Artis,https://www.zomato.com/grande-lisboa/artis-bairro-alto-lisboa/info,25
+761,Stasha,https://www.zomato.com/grande-lisboa/stasha-bairro-alto-lisboa/info,25
+762,Príncipe do Calhariz,https://www.zomato.com/grande-lisboa/príncipe-do-calhariz-bairro-alto-lisboa/info,20
+763,Espada,https://www.zomato.com/grande-lisboa/espada-cais-do-sodré-lisboa/info,45
+764,28 Café,https://www.zomato.com/grande-lisboa/28-café-castelo-lisboa/info,18
+765,Ibo,https://www.zomato.com/grande-lisboa/ibo-cais-do-sodré-lisboa/info,80
+766,Bistro Edelweiss,https://www.zomato.com/grande-lisboa/bistro-edelweiss-príncipe-real-lisboa/info,45
+767,Nós é Mais Bolos,https://www.zomato.com/grande-lisboa/nós-é-mais-bolos-cais-do-sodré-lisboa/info,12
+768,Cerveteca Lisboa,https://www.zomato.com/grande-lisboa/cerveteca-lisboa-príncipe-real-lisboa/info,15
+769,Café Principe Real Bar & Restaurant,https://www.zomato.com/grande-lisboa/café-principe-real-bar-restaurant-príncipe-real-lisboa/info,50
+770,Chaminés do Palácio,https://www.zomato.com/grande-lisboa/chaminés-do-palácio-rossio-lisboa/info,30
+771,Tapa Bucho - Gastrobar,https://www.zomato.com/grande-lisboa/tapa-bucho-gastrobar-2-bairro-alto-lisboa/info,25
+772,Irriverente,https://www.zomato.com/grande-lisboa/irriverente-cais-do-sodré-lisboa/info,30
+773,Wurst - Salsicharia Austríaca,https://www.zomato.com/grande-lisboa/wurst-salsicharia-austríaca-são-bento-lisboa/info,18
+774,Estrela da Bica,https://www.zomato.com/estreladabica/info,30
+775,Kikusushi,https://www.zomato.com/grande-lisboa/kikusushi-baixa-lisboa/info,30
+776,RIB - Beef & Wine,https://www.zomato.com/grande-lisboa/rib-beef-wine-baixa-lisboa/info,60
+777,A Carpintaria,https://www.zomato.com/grande-lisboa/a-carpintaria-cais-do-sodré-lisboa/info,30
+778,Monte Mar Lisboa,https://www.zomato.com/grande-lisboa/monte-mar-lisboa-cais-do-sodré-lisboa/info,80
+779,Bettina e Niccòlo Corallo,https://www.zomato.com/grande-lisboa/bettina-e-niccòlo-corallo-príncipe-real-lisboa/info,10
+780,The Couch Sports Bar,https://www.zomato.com/grande-lisboa/the-couch-sports-bar-cais-do-sodré-lisboa/info,20
+781,O Prego da Peixaria,https://www.zomato.com/grande-lisboa/o-prego-da-peixaria-cais-do-sodré-lisboa/info,25
+782,Dama e Vagabundo,https://www.zomato.com/grande-lisboa/dama-e-vagabundo-baixa-lisboa/info,30
+783,Boi Cavalo,https://www.zomato.com/grande-lisboa/boi-cavalo-alfama-lisboa/info,80
+784,100 Montaditos,https://www.zomato.com/grande-lisboa/100-montaditos-cais-do-sodré-lisboa/info,20
+785,Farol de Santa Luzia,https://www.zomato.com/grande-lisboa/farol-de-santa-luzia-alfama-lisboa/info,40
+786,Rebel Asian,https://www.zomato.com/grande-lisboa/rebel-asian-cais-do-sodré-lisboa/info,25
+787,Café da Ordem dos Arquitectos,https://www.zomato.com/grande-lisboa/café-da-ordem-dos-arquitectos-cais-do-sodré-lisboa/info,20
+788,A Merendeira,https://www.zomato.com/grande-lisboa/a-merendeira-santos-lisboa/info,8
+789,Taberna da Esperança,https://www.zomato.com/grande-lisboa/taberna-da-esperança-madragoa-lisboa/info,40
+790,M'Arrecreo,https://www.zomato.com/grande-lisboa/marrecreo-bairro-alto-lisboa/info,30
+791,Petiscaria Ideal,https://www.zomato.com/grande-lisboa/petiscaria-ideal-madragoa-lisboa/info,40
+792,Clube do Bacalhau,https://www.zomato.com/grande-lisboa/clube-do-bacalhau-cais-do-sodré-lisboa/info,40
+793,Tasca do Chico,https://www.zomato.com/grande-lisboa/tasca-do-chico-bairro-alto-lisboa/info,25
+794,Pizzaria do Bairro,https://www.zomato.com/grande-lisboa/pizzaria-do-bairro-cais-do-sodré-lisboa/info,20
+795,Arkhe,https://www.zomato.com/grande-lisboa/arkhe-santos-lisboa/info,50
+796,Farès,https://www.zomato.com/grande-lisboa/farès-1-cais-do-sodré-lisboa/info,25
+797,Quiosque do Adamastor,https://www.zomato.com/grande-lisboa/quiosque-do-adamastor-bica-lisboa/info,10
+798,Dallas,https://www.zomato.com/grande-lisboa/dallas-cais-do-sodré-lisboa/info,40
+799,Cafeh Tehran,https://www.zomato.com/grande-lisboa/cafeh-tehran-príncipe-real-lisboa/info,20
+800,Toma Lá Dá Cá,https://www.zomato.com/grande-lisboa/toma-lá-dá-cá-bica-lisboa/info,25
+801,Zapata,https://www.zomato.com/grande-lisboa/zapata-são-bento-lisboa/info,35
+802,Croqueteria,https://www.zomato.com/grande-lisboa/croqueteria-cais-do-sodré-lisboa/info,15
+803,Povo,https://www.zomato.com/grande-lisboa/povo-cais-do-sodré-lisboa/info,30
+804,Faz Frio,https://www.zomato.com/grande-lisboa/faz-frio-príncipe-real-lisboa/info,40
+805,A Travessa,https://www.zomato.com/grande-lisboa/a-travessa-madragoa-lisboa/info,100
+806,Tapas Bar 52,https://www.zomato.com/grande-lisboa/tapas-bar-52-príncipe-real-lisboa/info,35
+807,Lisboa à Noite,https://www.zomato.com/grande-lisboa/lisboa-à-noite-bairro-alto-lisboa/info,50
+808,Fumeiro de Santa Catarina,https://www.zomato.com/grande-lisboa/fumeiro-de-santa-catarina-bica-lisboa/info,34
+809,Boteco da Dri,https://www.zomato.com/grande-lisboa/boteco-da-dri-1-cais-do-sodré-lisboa/info,40
+810,Natraj,https://www.zomato.com/grande-lisboa/natraj-baixa-lisboa/info,30
+811,Asian Lab,https://www.zomato.com/grande-lisboa/asian-lab-cais-do-sodré-lisboa/info,25
+812,Hennessy's Irish Pub,https://www.zomato.com/grande-lisboa/hennessys-irish-pub-cais-do-sodré-lisboa/info,30
+813,Museu da Cerveja,https://www.zomato.com/grande-lisboa/museu-da-cerveja-baixa-lisboa/info,50
+814,Castro Beer,https://www.zomato.com/grande-lisboa/castro-beer-cais-do-sodré-lisboa/info,20
+815,Simplesmente  •  Pizza Bar,https://www.zomato.com/grande-lisboa/simplesmente-pizza-bar-bairro-alto-lisboa/info,30
+816,Rossio Gastrobar,https://www.zomato.com/grande-lisboa/rossio-gastrobar-2-rossio-lisboa/info,45
+817,Sinal Vermelho,https://www.zomato.com/grande-lisboa/sinal-vermelho-bairro-alto-lisboa/info,40
+818,Il Covo,https://www.zomato.com/grande-lisboa/il-covo-madragoa/info,70
+819,Quiosque da Ribeira das Naus,https://www.zomato.com/grande-lisboa/quiosque-da-ribeira-das-naus-cais-do-sodré-lisboa/info,10
+820,Oito Nove,https://www.zomato.com/grande-lisboa/oito-nove-bairro-alto-lisboa/info,25
+821,Maria Catita,https://www.zomato.com/grande-lisboa/maria-catita-sé-lisboa/info,35
+822,Dona Quitéria,https://www.zomato.com/grande-lisboa/dona-quitéria-príncipe-real-lisboa/info,40
+823,Põe-te na Bicha,https://www.zomato.com/poetenabicha/info,25
+824,Os Bons Malandros,https://www.zomato.com/grande-lisboa/os-bons-malandros-bica-lisboa/info,30
+825,Kong Vegan Food,https://www.zomato.com/grande-lisboa/kong-vegan-food-baixa-lisboa/info,30
+826,Luar da Boavista,https://www.zomato.com/grande-lisboa/luar-da-boavista-cais-do-sodré-lisboa/info,25
+827,Gurkha,https://www.zomato.com/grande-lisboa/gurkha-são-bento-lisboa/info,25
+828,Arquivo Geral,https://www.zomato.com/grande-lisboa/arquivo-geral-1-cais-do-sodré-lisboa/info,20
+829,Comida de Santo,https://www.zomato.com/grande-lisboa/comida-de-santo-príncipe-real-lisboa/info,40
+830,Rosa da Rua,https://www.zomato.com/grande-lisboa/rosa-da-rua-bairro-alto-lisboa/info,30
+831,Caso Sério,https://www.zomato.com/grande-lisboa/caso-sério-sé-lisboa/info,20
+832,Princesa do Castelo,https://www.zomato.com/PrincesaDoCastelo/info,30
+833,Sukhothai,https://www.zomato.com/grande-lisboa/sukhothai-bairro-alto-lisboa/info,50
+834,Chef Henrique Sá Pessoa - Food Corner,https://www.zomato.com/HenriqueSaPessoa/info,30
+835,Snob Bar,https://www.zomato.com/grande-lisboa/snob-bar-príncipe-real/info,25
+836,Calcutá,https://www.zomato.com/grande-lisboa/calcutá-bairro-alto-lisboa/info,30
+837,Javá,https://www.zomato.com/grande-lisboa/javá-cais-do-sodré-lisboa/info,40
+838,O Arêgos,https://www.zomato.com/grande-lisboa/o-arêgos-madragoa-lisboa/info,30
+839,O Cantinho do Bem Estar,https://www.zomato.com/grande-lisboa/o-cantinho-do-bem-estar-bairro-alto/info,20
+840,Feel Rio,https://www.zomato.com/grande-lisboa/feel-rio-baixa-lisboa/info,10
+841,Brown’s Bistro – Brown’s Boutique Hotel,https://www.zomato.com/grande-lisboa/browns-bistro-browns-boutique-hotel-baixa-lisboa/info,35
+842,Frade dos Mares,https://www.zomato.com/grande-lisboa/frade-dos-mares-santos-lisboa/info,50
+843,Santa Rita,https://www.zomato.com/grande-lisboa/santa-rita-sé-lisboa/info,18
+844,Adega do Tagarro,https://www.zomato.com/grande-lisboa/adega-do-tagarro-bairro-alto-lisboa/info,30
+845,Café Garrett by Ohana,https://www.zomato.com/grande-lisboa/café-garrett-by-ohana-rossio-lisboa/info,30
+846,Mattë Lisboa,https://www.zomato.com/grande-lisboa/mattë-lisboa-1-santos-lisboa/info,180
+847,A Viúva,https://www.zomato.com/grande-lisboa/a-viúva-1-santos-lisboa/info,28
+848,Sophia Natural Italian,https://www.zomato.com/grande-lisboa/sophia-natural-italian-cais-do-sodré-lisboa/info,50
+849,Velha Gaiteira,https://www.zomato.com/grande-lisboa/velha-gaiteira-sé-lisboa/info,30
+850,Esplanada Príncipe Real,https://www.zomato.com/grande-lisboa/esplanada-príncipe-real-príncipe-real-lisboa/info,20
+851,DesNorte,https://www.zomato.com/grande-lisboa/desnorte-bairro-alto-lisboa/info,50
+852,Esperança Sé,https://www.zomato.com/grande-lisboa/esperança-sé-sé-lisboa/info,40
+853,Casa Portuguesa do Pastel de Bacalhau,https://www.zomato.com/grande-lisboa/casa-portuguesa-do-pastel-de-bacalhau-baixa-lisboa/info,10
+854,Lumi Rooftop Bar & Restaurant,https://www.zomato.com/grande-lisboa/lumi-rooftop-bar-restaurant-bairro-alto-lisboa/info,50
+855,O Prego,https://www.zomato.com/grande-lisboa/o-prego-castelo-lisboa/info,30
+856,Cerveja Canil,https://www.zomato.com/grande-lisboa/cerveja-canil-baixa-lisboa/info,20
+857,As Bifanas do Afonso - Covense,https://www.zomato.com/grande-lisboa/as-bifanas-do-afonso-covense-sé-lisboa/info,8
+858,Croissant Gigante do Bairro,https://www.zomato.com/grande-lisboa/croissant-gigante-do-bairro-bairro-alto-lisboa/info,12
+859,O'Gilins - Irish Pub,https://www.zomato.com/grande-lisboa/ogilins-irish-pub-cais-do-sodré-lisboa/info,30
+860,Miradouro de São Pedro de Alcântara,https://www.zomato.com/grande-lisboa/miradouro-de-são-pedro-de-alcântara-príncipe-real-lisboa/info,15
+861,Lupita Pizzaria,https://www.zomato.com/grande-lisboa/lupita-pizzaria-cais-do-sodré-lisboa/info,25
+862,Soajeiro,https://www.zomato.com/grande-lisboa/soajeiro-santos/info,20
+863,Papo Cheio,https://www.zomato.com/grande-lisboa/papo-cheio-bairro-alto-lisboa/info,20
+864,Bela - Vinhos e Petiscos,https://www.zomato.com/grande-lisboa/bela-vinhos-e-petiscos-alfama-lisboa/info,48
+865,Páteo 13,https://www.zomato.com/grande-lisboa/páteo-13-alfama-lisboa/info,30
+866,Sora Lella,https://www.zomato.com/grande-lisboa/sora-lella-são-bento-lisboa/info,20
+867,Tambarina,https://www.zomato.com/grande-lisboa/tambarina-são-bento-lisboa/info,15
+868,Populi River Caffé & Restaurant,https://www.zomato.com/grande-lisboa/populi-river-caffé-restaurant-baixa-lisboa/info,60
+869,Pop Out The Can,https://www.zomato.com/grande-lisboa/pop-out-the-can-bica-lisboa/info,20
+870,Paul,https://www.zomato.com/grande-lisboa/paul-baixa-lisboa/info,8
+871,Uma Marisqueira,https://www.zomato.com/grande-lisboa/uma-marisqueira-baixa-lisboa/info,20
+872,Chef Marlene Vieira - Food Corner,https://www.zomato.com/grande-lisboa/chef-marlene-vieira-food-corner-cais-do-sodré-lisboa/info,30
+873,São Jorge,https://www.zomato.com/grande-lisboa/são-jorge-castelo-lisboa/info,50
+874,Chafariz do Vinho,https://www.zomato.com/grande-lisboa/chafariz-do-vinho-príncipe-real-lisboa/info,40
+875,Cocheira Alentejana,https://www.zomato.com/grande-lisboa/cocheira-alentejana-bairro-alto-lisboa/info,40
+876,Restaurante 100 Maneiras,https://www.zomato.com/grande-lisboa/restaurante-100-maneiras-bairro-alto-lisboa/info,250
+877,Greek Tavern Dionysos,https://www.zomato.com/grande-lisboa/greek-tavern-dionysos-santos-lisboa/info,30
+878,Audrey's,https://www.zomato.com/grande-lisboa/audreys-castelo-lisboa/info,50
+879,Esperança,https://www.zomato.com/grande-lisboa/esperança-bairro-alto-lisboa/info,40
+880,Tascardoso,https://www.zomato.com/grande-lisboa/tascardoso-príncipe-real-lisboa/info,35
+881,Carpe Diem Arte e Pesquisa - Cafetaria,https://www.zomato.com/grande-lisboa/carpe-diem-arte-e-pesquisa-cafetaria-bairro-alto-lisboa/info,15
+882,Greencoffee,https://www.zomato.com/grande-lisboa/greencoffee-baixa-lisboa/info,25
+883,Essencial,https://www.zomato.com/grande-lisboa/essencial-bairro-alto-lisboa/info,60
+884,Can the Can,https://www.zomato.com/grande-lisboa/can-the-can-baixa-lisboa/info,36
+885,Sky Valley,https://www.zomato.com/grande-lisboa/sky-valley-santos-lisboa/info,90
+886,Cafetaria Museu Nacional de Arte Antiga,https://www.zomato.com/grande-lisboa/cafetaria-museu-nacional-de-arte-antiga-santos-lisboa/info,15
+887,Bonjardim,https://www.zomato.com/grande-lisboa/bonjardim-rossio-lisboa/info,30
+888,Cantinho da Paz,https://www.zomato.com/grande-lisboa/cantinho-da-paz-são-bento-lisboa/info,38
+889,Local,https://www.zomato.com/grande-lisboa/local-príncipe-real-lisboa/info,60
+890,Sabor a Santos,https://www.zomato.com/grande-lisboa/sabor-a-santos-santos-lisboa/info,18
+891,Salmoura,https://www.zomato.com/grande-lisboa/salmoura-alfama-lisboa/info,40
+892,Espaço Académico de Lisboa,https://www.zomato.com/grande-lisboa/espaço-académico-de-lisboa-bairro-alto-lisboa/info,34
+893,Santo António de Alfama,https://www.zomato.com/grande-lisboa/santo-antónio-de-alfama-alfama-lisboa/info,60
+894,Há Café no Alfarrabista,https://www.zomato.com/grande-lisboa/há-café-no-alfarrabista-sé-lisboa/info,6
+895,Adega Machado,https://www.zomato.com/grande-lisboa/adega-machado-bairro-alto-lisboa/info,100
+896,Gandhi Palace,https://www.zomato.com/grande-lisboa/gandhi-palace-baixa-lisboa/info,30
+897,Suba,https://www.zomato.com/restaurantesuba/info,120
+898,Acaso,https://www.zomato.com/grande-lisboa/acaso-santos-lisboa/info,35
+899,Sála de João Sá,https://www.zomato.com/grande-lisboa/sála-de-joão-sá-sé-lisboa/info,75
+900,Sushi Shop,https://www.zomato.com/grande-lisboa/sushi-shop-cais-do-sodré-lisboa/info,30
+901,Miolo,https://www.zomato.com/grande-lisboa/miolo-bairro-alto-lisboa/info,20
+902,Acarajé da Carol,https://www.zomato.com/grande-lisboa/acarajé-da-carol-bairro-alto-lisboa/info,20
+903,Chef Alexandre Silva - Food Corner,https://www.zomato.com/grande-lisboa/chef-alexandre-silva-food-corner-cais-do-sodré-lisboa/info,40
+904,La Argentina,https://www.zomato.com/grande-lisboa/la-argentina-são-bento-lisboa/info,10
+905,Musa da Bica,https://www.zomato.com/grande-lisboa/musa-da-bica-bica-lisboa/info,22
+906,Café Boavida,https://www.zomato.com/grande-lisboa/cafe-boavida-1-santos-lisboa/info,8
+907,Don Costini,https://www.zomato.com/grande-lisboa/don-costini-1-cais-do-sodré-lisboa/info,40
+908,Ti Natércia,https://www.zomato.com/grande-lisboa/ti-natércia-alfama-lisboa/info,35
+909,A Travessa do Fado,https://www.zomato.com/grande-lisboa/a-travessa-do-fado-alfama-lisboa/info,45
+910,Collect - Burgers . Radio . Records,https://www.zomato.com/grande-lisboa/collect-burgers-radio-records-cais-do-sodré-lisboa/info,25
+911,Manteigaria - Fábrica de Pastéis de Nata,https://www.zomato.com/grande-lisboa/manteigaria-fábrica-de-pastéis-de-nata-1-cais-do-sodré-lisboa/info,5
+912,Quintal de Santo Amaro,https://www.zomato.com/grande-lisboa/quintal-de-santo-amaro-são-bento-lisboa/info,12
+913,BAHR & Terrace,https://www.zomato.com/grande-lisboa/bahr-terrace-bairro-alto-lisboa/info,85
+914,Esplanada Chapitô à Mesa,https://www.zomato.com/grande-lisboa/esplanada-chapitô-à-mesa-castelo-lisboa/info,40
+915,Ground Burger - Cais do Sodré,https://www.zomato.com/grande-lisboa/ground-burger-cais-do-sodré-cais-do-sodré-lisboa/info,35
+916,Túnel de Santos,https://www.zomato.com/grande-lisboa/túnel-de-santos-santos-lisboa/info,25
+917,Cabane,https://www.zomato.com/grande-lisboa/cabane-1-príncipe-real-lisboa/info,20
+918,Restaurante Fama d'Alfama,https://www.zomato.com/grande-lisboa/restaurante-fama-dalfama-alfama-lisboa/info,30
+919,Gelato Therapy,https://www.zomato.com/grande-lisboa/gelato-therapy-baixa-lisboa/info,10
+920,Uma Pizza Em Companhia,https://www.zomato.com/grande-lisboa/uma-pizza-em-companhia-santos/info,20
+921,A Flor da Laranja,https://www.zomato.com/grande-lisboa/a-flor-da-laranja-bairro-alto-lisboa/info,35
+922,Foradoras,https://www.zomato.com/grande-lisboa/foradoras-são-bento-lisboa/info,25
+923,Menina e Moça - Livraria Bar,https://www.zomato.com/grande-lisboa/menina-e-moça-livraria-bar-cais-do-sodré-lisboa/info,20
+924,Lisboète,https://www.zomato.com/Lisboete/info,70
+925,O Faia,https://www.zomato.com/ofaia/info,110
+926,Hó Caldas,https://www.zomato.com/grande-lisboa/hó-caldas-sé-lisboa/info,25
+927,CR7 Corner Bar & Bistro,https://www.zomato.com/grande-lisboa/cr7-corner-bar-bistro-baixa-lisboa/info,50
+928,Le Petit Prince,https://www.zomato.com/grande-lisboa/le-petit-prince-príncipe-real-lisboa/info,8
+929,Restaurante Alfaia,https://www.zomato.com/grande-lisboa/restaurante-alfaia-bairro-alto-lisboa/info,30
+930,Lisboa é linda,https://www.zomato.com/grande-lisboa/lisboa-é-linda-cais-do-sodré-lisboa/info,30
+931,Pub Português,https://www.zomato.com/grande-lisboa/pub-português-bairro-alto-lisboa/info,25
+932,Nivà Cremeria Lisboa,https://www.zomato.com/grande-lisboa/nivà-cremeria-lisboa-príncipe-real-lisboa/info,6
+933,Mú - Gelato Italiano,https://www.zomato.com/gelatomupreal/info,6
+934,PIC Perfect Ice Cream,https://www.zomato.com/grande-lisboa/pic-perfect-ice-cream-bica-lisboa/info,8
+935,Cozinha da Felicidade,https://www.zomato.com/grande-lisboa/cozinha-da-felicidade-cais-do-sodré-lisboa/info,30
+936,A Merendinha do Arco Bandeira,https://www.zomato.com/grande-lisboa/a-merendinha-do-arco-bandeira-baixa-lisboa/info,25
+937,Duetos da Sé,https://www.zomato.com/grande-lisboa/duetos-da-sé-sé-lisboa/info,60
+938,Jamie Oliver's Pizzeria,https://www.zomato.com/grande-lisboa/jamie-olivers-pizzeria-bairro-alto-lisboa/info,40
+939,Adega Dantas,https://www.zomato.com/grande-lisboa/adega-dantas-bica-lisboa/info,22
+940,Prima Pasta,https://www.zomato.com/grande-lisboa/prima-pasta-baixa-lisboa/info,30
+941,Grapes and Bites,https://www.zomato.com/grande-lisboa/grapes-and-bites-bairro-alto-lisboa/info,80
+942,Palácio do Kebab,https://www.zomato.com/grande-lisboa/palácio-do-kebab-cais-do-sodré-lisboa/info,12
+943,Everest Montanha,https://www.zomato.com/grande-lisboa/everest-montanha-rossio-lisboa/info,25
+944,La Tagliatella - Santos,https://www.zomato.com/grande-lisboa/la-tagliatella-santos-santos-lisboa/info,30
+945,Leonetta,https://www.zomato.com/grande-lisboa/leonetta-príncipe-real-lisboa/info,35
+946,Elevador,https://www.zomato.com/grande-lisboa/elevador-baixa-lisboa/info,40
+947,Roda Viva Sabores & Saberes,https://www.zomato.com/grande-lisboa/roda-viva-sabores-saberes-alfama-lisboa/info,20
+948,Zunzum Gastrobar,https://www.zomato.com/grande-lisboa/zunzum-gastrobar-alfama-lisboa/info,60
+949,Mercearia da Mila,https://www.zomato.com/grande-lisboa/mercearia-da-mila-santos-lisboa/info,10
+950,OSSO Bento,https://www.zomato.com/grande-lisboa/osso-bento-são-bento-lisboa/info,50
+951,La Squadra,https://www.zomato.com/grande-lisboa/la-squadra-rossio-lisboa/info,40
+952,OVEN,https://www.zomato.com/grande-lisboa/oven-baixa-lisboa/info,50
+953,Steakhouse Bar by Gayola,https://www.zomato.com/grande-lisboa/steakhouse-bar-by-gayola-príncipe-real-lisboa/info,30
+954,Guarda-Mor,https://www.zomato.com/grande-lisboa/guarda-mor-madragoa-lisboa/info,40
+955,11 Tapas - Restaurante & Cocktails Wine Bar,https://www.zomato.com/grande-lisboa/11-tapas-restaurante-cocktails-wine-bar-bairro-alto-lisboa/info,30
+956,Eating Bear,https://www.zomato.com/grande-lisboa/eating-bear-baixa/info,35
+957,Trivial,https://www.zomato.com/grande-lisboa/trivial-príncipe-real-lisboa/info,35
+958,Petisqueira Conqvistador,https://www.zomato.com/grande-lisboa/petisqueira-conqvistador-castelo-lisboa/info,30
+959,Chef Miguel Castro e Silva - Food Corner,https://www.zomato.com/grande-lisboa/chef-miguel-castro-e-silva-food-corner-cais-do-sodré-lisboa/info,40
+960,Veramente Pizza & Vino,https://www.zomato.com/grande-lisboa/veramente-pizza-vino-são-bento-lisboa/info,30
+961,Fado na Morgadinha,https://www.zomato.com/grande-lisboa/fado-na-morgadinha-alfama-lisboa/info,35
+962,O Fatica,https://www.zomato.com/grande-lisboa/o-fatica-santos-lisboa/info,35
+963,Café Luso,https://www.zomato.com/grande-lisboa/café-luso-bairro-alto-lisboa/info,80
+964,Taberna da Baixa,https://www.zomato.com/grande-lisboa/taberna-da-baixa-baixa-lisboa/info,30
+965,OakBerry,https://www.zomato.com/grande-lisboa/oakberry-cais-do-sodré-lisboa/info,15
+966,O Beco - A Tradição do Bacalhau,https://www.zomato.com/grande-lisboa/o-beco-a-tradição-do-bacalhau-alfama-lisboa/info,35
+967,Sanskar Nepal,https://www.zomato.com/grande-lisboa/sanskar-nepal-bica-lisboa/info,25
+968,Buffet do Leão,https://www.zomato.com/grande-lisboa/buffet-do-leão-rossio-lisboa/info,16
+969,India Gate,https://www.zomato.com/grande-lisboa/india-gate-sé-lisboa/info,30
+970,Maruto Bar & Bistro - Alfama,https://www.zomato.com/grande-lisboa/maruto-bar-bistro-alfama-alfama-lisboa/info,25
+971,Carapau de Corrida,https://www.zomato.com/grande-lisboa/carapau-de-corrida-são-bento-lisboa/info,25
+972,O Marques,https://www.zomato.com/grande-lisboa/o-marques-rossio-lisboa/info,20
+973,Flôr do Cais do Sodré,https://www.zomato.com/grande-lisboa/flôr-do-cais-do-sodré-cais-do-sodré-lisboa/info,25
+974,Clube de Fado,https://www.zomato.com/grande-lisboa/clube-de-fado-sé-lisboa/info,80
+975,Varina da Madragoa,https://www.zomato.com/grande-lisboa/varina-da-madragoa-madragoa-lisboa/info,40
+976,A Obra,https://www.zomato.com/grande-lisboa/a-obra-santos-lisboa/info,25
+977,Retiro dos Sentidos,https://www.zomato.com/grande-lisboa/retiro-dos-sentidos-bairro-alto-lisboa/info,40
+978,As Salgadeiras,https://www.zomato.com/grande-lisboa/as-salgadeiras-bairro-alto-lisboa/info,80
+979,Beira Rio,https://www.zomato.com/grande-lisboa/beira-rio-santos-lisboa/info,15
+980,Da Prata 52,https://www.zomato.com/grande-lisboa/da-prata-52-baixa-lisboa/info,40
+981,The Wine Cellar,https://www.zomato.com/grande-lisboa/the-wine-cellar-cais-do-sodré-lisboa/info,40
+982,A Licorista e o Bacalhoeiro,https://www.zomato.com/grande-lisboa/a-licorista-e-o-bacalhoeiro-baixa-lisboa/info,20
+983,Gelados - A Veneziana,https://www.zomato.com/grande-lisboa/gelados-a-veneziana-rossio-lisboa/info,10
+984,Petiscos D'Atalaia,https://www.zomato.com/grande-lisboa/petiscos-datalaia-bairro-alto-lisboa/info,30
+985,Flores da Pampa,https://www.zomato.com/grande-lisboa/flores-da-pampa-príncipe-real-lisboa/info,25
+986,Mesa Kreol,https://www.zomato.com/grande-lisboa/mesa-kreol-sé-lisboa/info,30
+987,La Vita è Bella,https://www.zomato.com/grande-lisboa/la-vita-è-bella-baixa-lisboa/info,45
+988,Agulha no Palheiro,https://www.zomato.com/grande-lisboa/agulha-no-palheiro-alfama-lisboa/info,20
+989,O Pratinho Feio,https://www.zomato.com/grande-lisboa/o-pratinho-feio-madragoa-lisboa/info,30
+990,Casa do Leão,https://www.zomato.com/grande-lisboa/casa-do-leão-castelo-lisboa/info,80
+991,Bubble Lab x Hello Bubble Waffle,https://www.zomato.com/grande-lisboa/bubble-lab-x-hello-bubble-waffle-baixa-lisboa/info,9
+992,Madragoa Vinhos e Petiscos,https://www.zomato.com/grande-lisboa/madragoa-vinhos-e-petiscos-madragoa-lisboa/info,35
